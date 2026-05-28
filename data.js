@@ -182,7 +182,7 @@ const quizData = {
       "options": {
         "A": "Mumbai Gold",
         "B": "Kolkata Coal",
-        "C": "Chennai  18Manganese  2",
+        "C": "Chennai  18Manganese",
         "D": "Delhi  In which of the following minerals India is the largest producer in the world?Mica"
       },
       "correct_answer": "D"
@@ -281,7 +281,7 @@ const quizData = {
       "options": {
         "A": "Autism Awareness Day",
         "B": "World Elder Abuse Awareness Day",
-        "C": "Zero Discrimination Day  3",
+        "C": "Zero Discrimination Day",
         "D": "Global Day of Parents"
       },
       "correct_answer": "B"
@@ -402,7 +402,7 @@ const quizData = {
       "options": {
         "A": "Promotion",
         "B": "Preservation",
-        "C": "Modernization  4",
+        "C": "Modernization",
         "D": "Both A&B"
       },
       "correct_answer": "D"
@@ -512,7 +512,7 @@ const quizData = {
       "options": {
         "A": "Incubation",
         "B": "Incorporation",
-        "C": "Startup  5",
+        "C": "Startup",
         "D": "Registration in Stock Market"
       },
       "correct_answer": "C"
@@ -622,7 +622,7 @@ const quizData = {
       "options": {
         "A": "Open office.org",
         "B": "Linux",
-        "C": "DOS  6",
+        "C": "DOS",
         "D": "Windows XP"
       },
       "correct_answer": "A"
@@ -721,7 +721,7 @@ const quizData = {
       "options": {
         "A": "Commitment, English language proficiency, time management",
         "B": "Subject competence, commitment, English language proficiency",
-        "C": "Subject competence, English language proficiency, time management  7",
+        "C": "Subject competence, English language proficiency, time management",
         "D": "Subject competence, commitment, time management"
       },
       "correct_answer": "D"
@@ -820,7 +820,7 @@ const quizData = {
       "options": {
         "A": "The Thirsty Crow",
         "B": "The story of King Midas",
-        "C": "The Fox and the Grapes  8",
+        "C": "The Fox and the Grapes",
         "D": "The Hare and the Tortoise"
       },
       "correct_answer": "C"
@@ -919,7 +919,7 @@ const quizData = {
       "options": {
         "A": "John Locke",
         "B": "John Dewey",
-        "C": "Plato  9",
+        "C": "Plato",
         "D": "Spencer"
       },
       "correct_answer": "A"
@@ -1018,7 +1018,7 @@ const quizData = {
       "options": {
         "A": "Movies",
         "B": "Still pictures",
-        "C": "Role play  10",
+        "C": "Role play",
         "D": "Demonstration"
       },
       "correct_answer": "C"
@@ -1117,7 +1117,7 @@ const quizData = {
       "options": {
         "A": "Education Commission (1964-66)",
         "B": "National Policy of Education (1986)",
-        "C": "University Education Commission (1962)  11",
+        "C": "University Education Commission (1962)",
         "D": "National Commission of Secondary Education (1952-53)"
       },
       "correct_answer": "D"
@@ -1205,7 +1205,7 @@ const quizData = {
       "options": {
         "A": "Piaget\u2019s cognitive development theory",
         "B": "Vygotsky\u2019s socio cultural theory",
-        "C": "Kohlberg\u2019s moral development theory  12",
+        "C": "Kohlberg\u2019s moral development theory",
         "D": "Gardner\u2019s multiple intelligence theory"
       },
       "correct_answer": "D"
@@ -1282,7 +1282,7 @@ const quizData = {
       "options": {
         "A": "Self-Appraisal",
         "B": "Little or no control on the quality of instruction",
-        "C": "Understanding the nature and outcome of instruction  13",
+        "C": "Understanding the nature and outcome of instruction",
         "D": "Ability to manipulate instruction according to student needs"
       },
       "correct_answer": "B"
@@ -1304,7 +1304,7 @@ const quizData = {
       "options": {
         "A": "Inculcation of Knowledge",
         "B": "Modification of Behaviour",
-        "C": "Personal Adjustment  ******************* 14",
+        "C": "Personal Adjustment  *******************",
         "D": "Acquisition of Skills"
       },
       "correct_answer": "B"
@@ -1537,7 +1537,7 @@ const quizData = {
       "options": {
         "A": "Drama",
         "B": "Biography",
-        "C": "Collection of Poem  2",
+        "C": "Collection of Poem",
         "D": "Scholarly treatise"
       },
       "correct_answer": "B"
@@ -1647,7 +1647,7 @@ const quizData = {
       "options": {
         "A": "ISRO",
         "B": "Space X",
-        "C": "NASA  3",
+        "C": "NASA",
         "D": "European Space Agency (ESA)"
       },
       "correct_answer": "B"
@@ -1746,7 +1746,7 @@ const quizData = {
       "options": {
         "A": "1 and 2 only",
         "B": "1, 2 and 3",
-        "C": "3 only  4",
+        "C": "3 only",
         "D": "2 and 3 only"
       },
       "correct_answer": "B"
@@ -1867,7 +1867,7 @@ const quizData = {
       "options": {
         "A": "Network",
         "B": "Client",
-        "C": "Mainframe  5",
+        "C": "Mainframe",
         "D": "Super Computer"
       },
       "correct_answer": "A"
@@ -1977,7 +1977,7 @@ const quizData = {
       "options": {
         "A": "Evaluation",
         "B": "Synthesis",
-        "C": "Comprehension  6",
+        "C": "Comprehension",
         "D": "Analysis"
       },
       "correct_answer": "B"
@@ -2054,7 +2054,7 @@ const quizData = {
       "options": {
         "A": "Analyse the reason for his behaviour and take necessary remedial  measures",
         "B": "Take disciplinary action",
-        "C": "Send him to special school  7",
+        "C": "Send him to special school",
         "D": "Neglect him and blame his parents"
       },
       "correct_answer": "A"
@@ -2153,7 +2153,7 @@ const quizData = {
       "options": {
         "A": "Inter personal intelligence",
         "B": "Spatial intelligence",
-        "C": "Logical Mathematical intelligence  8",
+        "C": "Logical Mathematical intelligence",
         "D": "Bodily Kinesthetic intelligence"
       },
       "correct_answer": "C"
@@ -2230,7 +2230,7 @@ const quizData = {
       "options": {
         "A": "Students asking questions and clarifying doubts",
         "B": "Pin drop silence in the classroom",
-        "C": "Students taking down lecture notes  9",
+        "C": "Students taking down lecture notes",
         "D": "Maximum attendance of learners"
       },
       "correct_answer": "A"
@@ -2329,7 +2329,7 @@ const quizData = {
       "options": {
         "A": "Achievement test score",
         "B": "Family size",
-        "C": "Teaching method  10",
+        "C": "Teaching method",
         "D": "Intelligence"
       },
       "correct_answer": "A"
@@ -2417,7 +2417,7 @@ const quizData = {
       "options": {
         "A": "cadb",
         "B": "abcd",
-        "C": "acdb  11",
+        "C": "acdb",
         "D": "dcba"
       },
       "correct_answer": "A"
@@ -2505,7 +2505,7 @@ const quizData = {
       "options": {
         "A": "Symbolic experiences",
         "B": "Vicarious experiences",
-        "C": "Simulated experiences  12",
+        "C": "Simulated experiences",
         "D": "Direct experiences"
       },
       "correct_answer": "D"
@@ -2593,7 +2593,7 @@ const quizData = {
       "options": {
         "A": "Biochemistry",
         "B": "Biophysics",
-        "C": "Bionics  _______________________ 13",
+        "C": "Bionics  _______________________",
         "D": "Biomedicine"
       },
       "correct_answer": "C"
@@ -2771,7 +2771,7 @@ const quizData = {
       "options": {
         "A": "I is true and II is the reason for I",
         "B": "I is not true and II is true",
-        "C": "I is true but II is not the reason for I  2",
+        "C": "I is true but II is not the reason for I",
         "D": "Both I and II are not true"
       },
       "correct_answer": "C"
@@ -2826,7 +2826,7 @@ const quizData = {
       "options": {
         "A": "i and iv only",
         "B": "ii and iii only",
-        "C": "None of these  3",
+        "C": "None of these",
         "D": "iii only"
       },
       "correct_answer": "C"
@@ -2925,7 +2925,7 @@ const quizData = {
       "options": {
         "A": "Mother-in-law",
         "B": "Mother-in-laws",
-        "C": "Mothers-in-law  4",
+        "C": "Mothers-in-law",
         "D": "Mothers-in-laws"
       },
       "correct_answer": "C"
@@ -2980,7 +2980,7 @@ const quizData = {
       "options": {
         "A": "SIJA",
         "B": "WENW",
-        "C": "SWJA  5",
+        "C": "SWJA",
         "D": "WIJA"
       },
       "correct_answer": "A"
@@ -3101,7 +3101,7 @@ const quizData = {
       "options": {
         "A": "Illegal immigration to Britain",
         "B": "European Union",
-        "C": "Rio Olympics  6",
+        "C": "Rio Olympics",
         "D": "Information Technology"
       },
       "correct_answer": "B"
@@ -3189,7 +3189,7 @@ const quizData = {
       "options": {
         "A": "Volterra Fietta",
         "B": "Mossack Fonseca",
-        "C": "Baker & Hostetler  7",
+        "C": "Baker & Hostetler",
         "D": "Panama International Inc."
       },
       "correct_answer": "B"
@@ -3277,7 +3277,7 @@ const quizData = {
       "options": {
         "A": "Insight",
         "B": "Scriptures",
-        "C": "Inferences  8",
+        "C": "Inferences",
         "D": "Prayers"
       },
       "correct_answer": "B"
@@ -3354,7 +3354,7 @@ const quizData = {
       "options": {
         "A": "Recommending on the funding policies for education",
         "B": "Preparation of textbooks",
-        "C": "Developing information systems  9",
+        "C": "Developing information systems",
         "D": "Conducting in-service programmes for teachers"
       },
       "correct_answer": "A"
@@ -3431,7 +3431,7 @@ const quizData = {
       "options": {
         "A": "Dyslexia",
         "B": "Dyscalculia",
-        "C": "Dysgraphia  10",
+        "C": "Dysgraphia",
         "D": "Language processing Disorder"
       },
       "correct_answer": "A"
@@ -3508,7 +3508,7 @@ const quizData = {
       "options": {
         "A": "To render advice to the Government, Universities and other institutions of  higher education in the State regulatory agencies in higher education within the State",
         "B": "To coordinate the roles of the Government, Universities and apex",
-        "C": "To evolve new concepts and programmes in higher education  reliance 11",
+        "C": "To evolve new concepts and programmes in higher education  reliance",
         "D": "To strengthen the higher education system through autonomy and self-"
       },
       "correct_answer": "D"
@@ -3574,7 +3574,7 @@ const quizData = {
       "options": {
         "A": "1 & 5 only",
         "B": "2 & 3 only",
-        "C": "4 & 5 only  12",
+        "C": "4 & 5 only",
         "D": "1 & 2 only"
       },
       "correct_answer": "C"
@@ -3629,7 +3629,7 @@ const quizData = {
       "options": {
         "A": "Tony and Amaresh are creative",
         "B": "Only Naseema is creative",
-        "C": "Naseema and Tony are creative  13",
+        "C": "Naseema and Tony are creative",
         "D": "Only Amaresh is creative"
       },
       "correct_answer": "B"
@@ -3695,7 +3695,7 @@ const quizData = {
       "options": {
         "A": "Only (1) is correct",
         "B": "Both (1) and (3) are correct",
-        "C": "Only (3) is correct  14",
+        "C": "Only (3) is correct",
         "D": "All are correct"
       },
       "correct_answer": "D"
@@ -3739,7 +3739,7 @@ const quizData = {
       "options": {
         "A": "Both (1) and (2) are true",
         "B": "Only (1) is true",
-        "C": "Only (2) is true  15",
+        "C": "Only (2) is true",
         "D": "Both (1) and (2) are false"
       },
       "correct_answer": "B"
@@ -3794,7 +3794,7 @@ const quizData = {
       "options": {
         "A": "(4)-(2)-(3)-(1)",
         "B": "(1)-(2)-(3)- (4)",
-        "C": "(1)-(3)-(2)- (4)  16",
+        "C": "(1)-(3)-(2)- (4)",
         "D": "(3)-(2)-(1)- (4)"
       },
       "correct_answer": "A"
@@ -3849,7 +3849,7 @@ const quizData = {
       "options": {
         "A": "Selecting a focus - Collecting data -Identifying research questions -  Analyzing data - Reporting results - Taking informed action questions - Reporting results - Taking informed action",
         "B": "Selecting a focus - Collecting data - Analyzing data - Identifying research",
-        "C": "Selecting a focus -Analyzing data - Collecting data - Identifying research  questions - Reporting results - Taking informed action Analyzing data - Reporting results - Taking informed action 17",
+        "C": "Selecting a focus -Analyzing data - Collecting data - Identifying research  questions - Reporting results - Taking informed action Analyzing data - Reporting results - Taking informed action",
         "D": "Selecting a focus - Identifying research questions - Collecting data -"
       },
       "correct_answer": "D"
@@ -3893,7 +3893,7 @@ const quizData = {
       "options": {
         "A": "P-4; Q-5; R-1; S-2",
         "B": "P-4; Q-2; R-1; S-3",
-        "C": "P-1; Q-5; R-2; S-3  18",
+        "C": "P-1; Q-5; R-2; S-3",
         "D": "P-2; Q-1; R-3; S-4"
       },
       "correct_answer": "A"
@@ -3915,7 +3915,7 @@ const quizData = {
       "options": {
         "A": "P-3; Q-1; R-4; S-2",
         "B": "P-5; Q-3; R-4; S-2",
-        "C": "P-3; Q-1; R-5; S-2  __________________ 19",
+        "C": "P-3; Q-1; R-5; S-2  __________________",
         "D": "P4; Q-3; R-1; S-5"
       },
       "correct_answer": "A"
@@ -4060,7 +4060,7 @@ const quizData = {
       "options": {
         "A": "Both S and R are true and R is the correct explanation of S.",
         "B": "Both S and R are true but R is not the correct explanation of S.",
-        "C": "S is true and R is false.  2",
+        "C": "S is true and R is false.",
         "D": "S is false and R is true."
       },
       "correct_answer": "D"
@@ -4115,7 +4115,7 @@ const quizData = {
       "options": {
         "A": "Brihadaranyaka Upanishad",
         "B": "Bhagavad Gita",
-        "C": "Ramayana  3 Read the following passage and answer question numbers 19 - 21 based on it. In the aftermath of the Narendra Modi government deciding to demonetise notes of Rs 500 and Rs 1,000 respectively, the Reserve Bank of India (RBI) put out an interesting data. Data from RBI shows that in 2015-2016 the total amount of paper notes in circulation amounted to Rs 16.4 lakh crore. Of this, the high denomination notes of Rs 500 and Rs 1,000 amounted to Rs 14.2 lakh crore. The Rs 500 notes amounted to Rs 7.9 lakh crore whereas Rs 1,000 notes amounted to Rs 6.3 lakh crore.",
+        "C": "Ramayana  Read the following passage and answer question numbers 19 - 21 based on it. In the aftermath of the Narendra Modi government deciding to demonetise notes of Rs 500 and Rs 1,000 respectively, the Reserve Bank of India (RBI) put out an interesting data. Data from RBI shows that in 2015-2016 the total amount of paper notes in circulation amounted to Rs 16.4 lakh crore. Of this, the high denomination notes of Rs 500 and Rs 1,000 amounted to Rs 14.2 lakh crore. The Rs 500 notes amounted to Rs 7.9 lakh crore whereas Rs 1,000 notes amounted to Rs 6.3 lakh crore.",
         "D": "Rig Veda"
       },
       "correct_answer": "A"
@@ -4170,7 +4170,7 @@ const quizData = {
       "options": {
         "A": "(i)-N, (ii)-M, (iii)-P, (iv)-O",
         "B": "(i)-M, (ii)-P, (iii)-O, (iv)-N",
-        "C": "(i)-N, (ii)-O, (iii)-M, (iv)-P  4",
+        "C": "(i)-N, (ii)-O, (iii)-M, (iv)-P",
         "D": "(i)-M, (ii)-N, (iii)-P, (iv)-O"
       },
       "correct_answer": "A"
@@ -4269,7 +4269,7 @@ const quizData = {
       "options": {
         "A": "Cacophonous",
         "B": "Eternal",
-        "C": "Glutton  5",
+        "C": "Glutton",
         "D": "Impeachable"
       },
       "correct_answer": "A"
@@ -4335,7 +4335,7 @@ const quizData = {
       "options": {
         "A": "6",
         "B": "5",
-        "C": "4  6",
+        "C": "4",
         "D": "8"
       },
       "correct_answer": "D"
@@ -4412,7 +4412,7 @@ const quizData = {
       "options": {
         "A": "Demonetisation of Indian currency (Rs.1000 and Rs.500 currency notes)",
         "B": "Introduction of GST",
-        "C": "Land Boundary Agreement between India and Bangladesh  7",
+        "C": "Land Boundary Agreement between India and Bangladesh",
         "D": "Right to Education"
       },
       "correct_answer": "B"
@@ -4511,7 +4511,7 @@ const quizData = {
       "options": {
         "A": "Iran",
         "B": "Nepal",
-        "C": "Bangladesh  8",
+        "C": "Bangladesh",
         "D": "India"
       },
       "correct_answer": "D"
@@ -4588,7 +4588,7 @@ const quizData = {
       "options": {
         "A": "What can be said to exist?",
         "B": "What is a thing?",
-        "C": "Into what categories, if any, can we sort existing things?  9",
+        "C": "Into what categories, if any, can we sort existing things?",
         "D": "What is the nature of knowledge?"
       },
       "correct_answer": "D"
@@ -4676,7 +4676,7 @@ const quizData = {
       "options": {
         "A": "Children enjoy learning in collaborative settings  motivate learning",
         "B": "Children are intrinsically motivated to learn and do not need rewards from adults to",
-        "C": "Children learn many things on their own without the intervention of older children or  adults 10",
+        "C": "Children learn many things on their own without the intervention of older children or  adults",
         "D": "Children construct their own knowledge in response to their experiences"
       },
       "correct_answer": "A"
@@ -4764,7 +4764,7 @@ const quizData = {
       "options": {
         "A": "(1) is the cause and (2) is the effect.",
         "B": "(2) is the cause and (1) is the effect.",
-        "C": "(1) and (2) are unrelated statements.  11",
+        "C": "(1) and (2) are unrelated statements.",
         "D": "(1) and (2) are related, but do not have cause- effect relationship."
       },
       "correct_answer": "B"
@@ -4863,7 +4863,7 @@ const quizData = {
       "options": {
         "A": "To determine the existence of a disability",
         "B": "To determine the effect of a disability",
-        "C": "To determine need for specialized services  12",
+        "C": "To determine need for specialized services",
         "D": "To determine the instructional strategies"
       },
       "correct_answer": "D"
@@ -4940,7 +4940,7 @@ const quizData = {
       "options": {
         "A": "Both are null hypotheses",
         "B": "(1) is alternate hypothesis and (2) is null hypothesis",
-        "C": "(1) is null hypothesis and (2) is research hypothesis  13",
+        "C": "(1) is null hypothesis and (2) is research hypothesis",
         "D": "Both are research hypotheses"
       },
       "correct_answer": "B"
@@ -5006,7 +5006,7 @@ const quizData = {
       "options": {
         "A": "(2) is the cause and (1) is the effect",
         "B": "(1) is the cause and (2) is the effect",
-        "C": "(1) and (2) have no cause effect relationship but they are related  14",
+        "C": "(1) and (2) have no cause effect relationship but they are related",
         "D": "(1) and (2) have no cause effect relationship and are not related at all"
       },
       "correct_answer": "C"
@@ -5061,7 +5061,7 @@ const quizData = {
       "options": {
         "A": "(1) is the cause and (2) is the effect",
         "B": "(1) is the effect and (2) is the cause",
-        "C": "(1) and (2) are unrelated  15",
+        "C": "(1) and (2) are unrelated",
         "D": "(1) and (2) are related but there is no cause effect relationship"
       },
       "correct_answer": "B"
@@ -5116,7 +5116,7 @@ const quizData = {
       "options": {
         "A": "(1) is Reliability and (2) is Validity",
         "B": "(1) is Validity and (2) is Reliability",
-        "C": "(1) is Validity and (2) is Usability  16",
+        "C": "(1) is Validity and (2) is Usability",
         "D": "(1) is Usability and (2) is Reliability"
       },
       "correct_answer": "B"
@@ -5171,7 +5171,7 @@ const quizData = {
       "options": {
         "A": "Both statements (1) and (2) are correct.",
         "B": "Both statements (1) and (2) are false.",
-        "C": "Statement (1) is correct but (2) is false.  17",
+        "C": "Statement (1) is correct but (2) is false.",
         "D": "Statement (2) is correct but (1) is false."
       },
       "correct_answer": "A"
@@ -5237,7 +5237,7 @@ const quizData = {
       "options": {
         "A": "P-2; Q-1; R-4; S-3",
         "B": "P-1; Q-3; R-2; S-5",
-        "C": "P-5; Q-3; R-1; S-2  __________________ 18",
+        "C": "P-5; Q-3; R-1; S-2  __________________",
         "D": "P-4; Q-2; R-5; S-3"
       },
       "correct_answer": "C"
@@ -5426,7 +5426,7 @@ const quizData = {
       "options": {
         "A": "Anushasana Parva",
         "B": "Virata Parva",
-        "C": "Shanti Parva  2",
+        "C": "Shanti Parva",
         "D": "Bhishma Parva"
       },
       "correct_answer": "D"
@@ -5536,7 +5536,7 @@ const quizData = {
       "options": {
         "A": "Confusing",
         "B": "Distant",
-        "C": "Local  3",
+        "C": "Local",
         "D": "Strange"
       },
       "correct_answer": "C"
@@ -5602,7 +5602,7 @@ const quizData = {
       "options": {
         "A": "The alliance of the British and the King of Travancore  adequate wages",
         "B": "The landlords of Kuttanad who exploited the farm labourers without giving them",
-        "C": "The British rule in India  4 Read the following passage and answer the question number 34 Pluralism has been a hallmark of Indian civilisation, and it\u2019s something to which we must hold fast. The battle of ideas need not get personal- there are other, superior ways of winning it than to suggest that one\u2019s opponent is anti-national. Debate has to be civil and rational, not hysterical and paranoid. Political difference does not mean all compassion and empathy has to be suspended- this is a truism that applies equally to right and left of the political spectrum.",
+        "C": "The British rule in India  Read the following passage and answer the question number 34 Pluralism has been a hallmark of Indian civilisation, and it\u2019s something to which we must hold fast. The battle of ideas need not get personal- there are other, superior ways of winning it than to suggest that one\u2019s opponent is anti-national. Debate has to be civil and rational, not hysterical and paranoid. Political difference does not mean all compassion and empathy has to be suspended- this is a truism that applies equally to right and left of the political spectrum.",
         "D": "The oppressive rule of C.P.Ramaswamy Iyer, the Dewan of Travancore"
       },
       "correct_answer": "D"
@@ -5668,7 +5668,7 @@ const quizData = {
       "options": {
         "A": "23",
         "B": "32",
-        "C": "27  5",
+        "C": "27",
         "D": "72"
       },
       "correct_answer": "C"
@@ -5745,7 +5745,7 @@ const quizData = {
       "options": {
         "A": "The Prime Minister of Ireland",
         "B": "Indian Ambassador to the U N",
-        "C": "Judge in the International Court of Justice  6",
+        "C": "Judge in the International Court of Justice",
         "D": "Indian Ambassador to France"
       },
       "correct_answer": "A"
@@ -5844,7 +5844,7 @@ const quizData = {
       "options": {
         "A": "Tyagaraja",
         "B": "Muthuswami Dikshitar",
-        "C": "Purandara Dasa  7",
+        "C": "Purandara Dasa",
         "D": "Syama Sastri"
       },
       "correct_answer": "C"
@@ -5954,7 +5954,7 @@ const quizData = {
       "options": {
         "A": "3 to 6 years",
         "B": "5 to 12 years",
-        "C": "12 to 15 years  8",
+        "C": "12 to 15 years",
         "D": "12 to 18 years"
       },
       "correct_answer": "D"
@@ -6064,7 +6064,7 @@ const quizData = {
       "options": {
         "A": "Both the statements (1) and (2) are true",
         "B": "Both the statements (1) and (2) are false",
-        "C": "Statement (1) is true but (2) is false  9",
+        "C": "Statement (1) is true but (2) is false",
         "D": "Statement (2) is true but (1) is false"
       },
       "correct_answer": "A"
@@ -6152,7 +6152,7 @@ const quizData = {
       "options": {
         "A": "The importance of continuity in behavioural methods  potential",
         "B": "The difference between what a child can currently do compared to their long-term",
-        "C": "The difference between what a child can do on their own, and what they can do with  the help of a more knowledgeable other teaching materials 10",
+        "C": "The difference between what a child can do on their own, and what they can do with  the help of a more knowledgeable other teaching materials",
         "D": "An area of research that is dedicated to developing consistent and useful learning and"
       },
       "correct_answer": "C"
@@ -6218,7 +6218,7 @@ const quizData = {
       "options": {
         "A": "SCERT",
         "B": "SIEMAT",
-        "C": "SIT  11",
+        "C": "SIT",
         "D": "SSA"
       },
       "correct_answer": "B"
@@ -6284,7 +6284,7 @@ const quizData = {
       "options": {
         "A": "District Institute of Elementary Training",
         "B": "District Institute of Education and Teaching",
-        "C": "District Institute of Education and Training  12",
+        "C": "District Institute of Education and Training",
         "D": "District Institute of Educational Technology"
       },
       "correct_answer": "C"
@@ -6339,7 +6339,7 @@ const quizData = {
       "options": {
         "A": "knows the subject thoroughly",
         "B": "knows how to enforce discipline",
-        "C": "has genuine interest in teaching  13",
+        "C": "has genuine interest in teaching",
         "D": "has good academic qualifications"
       },
       "correct_answer": "C"
@@ -6416,7 +6416,7 @@ const quizData = {
       "options": {
         "A": "I and III only",
         "B": "II and III only",
-        "C": "II, III and IV only  14",
+        "C": "II, III and IV only",
         "D": "I, II and III only"
       },
       "correct_answer": "D"
@@ -6471,7 +6471,7 @@ const quizData = {
       "options": {
         "A": "(1), (2), (4), (5), (3)",
         "B": "(2), (1), (3), (4), (5)",
-        "C": "(5), (4), (3), (1), (2)  15",
+        "C": "(5), (4), (3), (1), (2)",
         "D": "(4), (1), (5), (2), (3)"
       },
       "correct_answer": "D"
@@ -6548,7 +6548,7 @@ const quizData = {
       "options": {
         "A": "Quota Sampling",
         "B": "Simple Random Sampling",
-        "C": "Stratified Random Sampling  ______________________ 16",
+        "C": "Stratified Random Sampling  ______________________",
         "D": "Cluster Sampling"
       },
       "correct_answer": "A"
@@ -6759,7 +6759,7 @@ const quizData = {
       "options": {
         "A": "Take disciplinary action",
         "B": "Analyse the reason for his behaviour and take necessary remedial measures",
-        "C": "Send him to special school  2",
+        "C": "Send him to special school",
         "D": "Neglect him and blame his parents"
       },
       "correct_answer": "B"
@@ -6858,7 +6858,7 @@ const quizData = {
       "options": {
         "A": "A teacher teaches considering the level of students",
         "B": "A teacher uses multi-sensory modality",
-        "C": "A teacher is interested in making the subject matter understood rather than on  completing the course 3",
+        "C": "A teacher is interested in making the subject matter understood rather than on  completing the course",
         "D": "All of the above"
       },
       "correct_answer": "D"
@@ -6946,7 +6946,7 @@ const quizData = {
       "options": {
         "A": "MMDD",
         "B": "DICT",
-        "C": "Engineering division  4",
+        "C": "Engineering division",
         "D": "Training division"
       },
       "correct_answer": "B"
@@ -7056,7 +7056,7 @@ const quizData = {
       "options": {
         "A": "1992",
         "B": "1995",
-        "C": "1999  5",
+        "C": "1999",
         "D": "2002"
       },
       "correct_answer": "C"
@@ -7177,7 +7177,7 @@ const quizData = {
       "options": {
         "A": "Ignore them",
         "B": "Leave the class",
-        "C": "Ask them to pay attention  6",
+        "C": "Ask them to pay attention",
         "D": "Change the teaching method"
       },
       "correct_answer": "D"
@@ -7298,7 +7298,7 @@ const quizData = {
       "options": {
         "A": "Beta carotene",
         "B": "Ethanol",
-        "C": "Adrenaline  7",
+        "C": "Adrenaline",
         "D": "Cholesterol"
       },
       "correct_answer": "D"
@@ -7430,7 +7430,7 @@ const quizData = {
       "options": {
         "A": "Computer Learning and Assessment in School Students.",
         "B": "Computer Level Assessment of Secondary Schools.",
-        "C": "Computer Literacy and Studies in Schools.  8",
+        "C": "Computer Literacy and Studies in Schools.",
         "D": "Centre for Literacy and Studies in Schools."
       },
       "correct_answer": "C"
@@ -7562,7 +7562,7 @@ const quizData = {
       "options": {
         "A": "Shehnai",
         "B": "Tabla",
-        "C": "Sitar  9",
+        "C": "Sitar",
         "D": "Santoor"
       },
       "correct_answer": "B"
@@ -7639,7 +7639,7 @@ const quizData = {
       "options": {
         "A": "Radium",
         "B": "Radio",
-        "C": "Granite  10",
+        "C": "Granite",
         "D": "Dynamite"
       },
       "correct_answer": "B"
@@ -7760,7 +7760,7 @@ const quizData = {
       "options": {
         "A": "P.R. Sreejesh",
         "B": "Ramandeep Singh",
-        "C": "Bharat Chetri  11",
+        "C": "Bharat Chetri",
         "D": "Manpreet Singh"
       },
       "correct_answer": "A"
@@ -7859,7 +7859,7 @@ const quizData = {
       "options": {
         "A": "Fermentation",
         "B": "Fertilization",
-        "C": "Contamination  _______________________ 12",
+        "C": "Contamination  _______________________",
         "D": "Composting"
       },
       "correct_answer": "D"
@@ -8048,7 +8048,7 @@ const quizData = {
       "options": {
         "A": "Lev Vygotsky",
         "B": "Jean Piaget",
-        "C": "Eric Erickson  2",
+        "C": "Eric Erickson",
         "D": "Jerome Bruner"
       },
       "correct_answer": "D"
@@ -8147,7 +8147,7 @@ const quizData = {
       "options": {
         "A": "Determine methods of teaching for the growth of personality",
         "B": "Instilling a sense of basic social values",
-        "C": "Lessening of concern for individual development  3",
+        "C": "Lessening of concern for individual development",
         "D": "Study comprehensive influences of culture on individual"
       },
       "correct_answer": "C"
@@ -8257,7 +8257,7 @@ const quizData = {
       "options": {
         "A": "Sign-gestalt theory",
         "B": "Law of varied reactions",
-        "C": "Theory of Trial and Error  4",
+        "C": "Theory of Trial and Error",
         "D": "Law of Associative shifting"
       },
       "correct_answer": "A"
@@ -8367,7 +8367,7 @@ const quizData = {
       "options": {
         "A": "Essentialism",
         "B": "Positivism",
-        "C": "Perennialism  5",
+        "C": "Perennialism",
         "D": "Progressivism"
       },
       "correct_answer": "C"
@@ -8477,7 +8477,7 @@ const quizData = {
       "options": {
         "A": "Virtual conference",
         "B": "Video conference",
-        "C": "Web based discussion  6",
+        "C": "Web based discussion",
         "D": "e-governance"
       },
       "correct_answer": "B"
@@ -8576,7 +8576,7 @@ const quizData = {
       "options": {
         "A": "The Shape of Water",
         "B": "Paris, Texas",
-        "C": "50 First Dates  7",
+        "C": "50 First Dates",
         "D": "Klute"
       },
       "correct_answer": "A"
@@ -8708,7 +8708,7 @@ const quizData = {
       "options": {
         "A": "Retina",
         "B": "Sclera",
-        "C": "Cornea  8",
+        "C": "Cornea",
         "D": "Iris"
       },
       "correct_answer": "C"
@@ -8785,7 +8785,7 @@ const quizData = {
       "options": {
         "A": "has a sharp melting point",
         "B": "has an irregular array of atoms",
-        "C": "exhibits double refraction  9",
+        "C": "exhibits double refraction",
         "D": "has a completely regular atomic or molecular structure"
       },
       "correct_answer": "D"
@@ -8858,7 +8858,7 @@ const quizData = {
     },
     {
       "id": "91",
-      "text": "University Grants Commission (UGC) was established with which of the following aims? (1)    Promotion of research & development in higher education (2)    Identifying & sustaining institutions of potential learning (3)    Capacity building of teachers in the higher education (4)    Providing, autonomy to each and every higher educational institution in India Choose the correct answer from the codes given below: 10",
+      "text": "University Grants Commission (UGC) was established with which of the following aims? (1)    Promotion of research & development in higher education (2)    Identifying & sustaining institutions of potential learning (3)    Capacity building of teachers in the higher education (4)    Providing, autonomy to each and every higher educational institution in India Choose the correct answer from the codes given below:",
       "options": {
         "A": "(1), (2) and (4) only",
         "B": "(1), (2), (3) and (4)",
@@ -8983,7 +8983,7 @@ const quizData = {
       "options": {
         "A": "I only",
         "B": "II only",
-        "C": "Both I and II  11",
+        "C": "Both I and II",
         "D": "Neither I nor II"
       },
       "correct_answer": "C"
@@ -9093,7 +9093,7 @@ const quizData = {
       "options": {
         "A": "S. Chandrasekhar",
         "B": "S. Ramanujam",
-        "C": "Sakunthala Devi  12",
+        "C": "Sakunthala Devi",
         "D": "Isaac Newton"
       },
       "correct_answer": "B"
@@ -9181,7 +9181,7 @@ const quizData = {
       "options": {
         "A": "Mammootty",
         "B": "K.J Yesudas",
-        "C": "Sachin Tendulkar  _______________________ 13",
+        "C": "Sachin Tendulkar  _______________________",
         "D": "Mohanlal"
       },
       "correct_answer": "B"
@@ -9293,7 +9293,7 @@ const quizData = {
       "options": {
         "A": "Aptitude Test",
         "B": "Personality Inventory",
-        "C": "Questionnaire  1",
+        "C": "Questionnaire",
         "D": "Attitude Scale"
       },
       "correct_answer": "A"
@@ -9425,7 +9425,7 @@ const quizData = {
       "options": {
         "A": "Paulo Freire",
         "B": "Rousseau",
-        "C": "John Locke  2",
+        "C": "John Locke",
         "D": "John Dewey"
       },
       "correct_answer": "A"
@@ -9546,7 +9546,7 @@ const quizData = {
       "options": {
         "A": "Stimulus generalization",
         "B": "Stimulus substitution",
-        "C": "Stimulus discrimination  3",
+        "C": "Stimulus discrimination",
         "D": "Spontaneous recovery"
       },
       "correct_answer": "C"
@@ -9667,7 +9667,7 @@ const quizData = {
       "options": {
         "A": "Strength",
         "B": "Skill",
-        "C": "Strategy  4",
+        "C": "Strategy",
         "D": "Society"
       },
       "correct_answer": "A"
@@ -9777,7 +9777,7 @@ const quizData = {
       "options": {
         "A": "As a sequence of learning stimulus-response associations",
         "B": "As a result of experiences of children in terms of social and cultural contexts",
-        "C": "As genetically predetermined  5",
+        "C": "As genetically predetermined",
         "D": "As a result of biological maturation"
       },
       "correct_answer": "B"
@@ -9898,7 +9898,7 @@ const quizData = {
       "options": {
         "A": "HysIS",
         "B": "GSAT \u2013 11",
-        "C": "GSAT \u2013 29  6",
+        "C": "GSAT \u2013 29",
         "D": "Cartosat 2F"
       },
       "correct_answer": "B"
@@ -9986,7 +9986,7 @@ const quizData = {
       "options": {
         "A": "i & ii",
         "B": "ii & iii",
-        "C": "iii & iv  7",
+        "C": "iii & iv",
         "D": "i , ii, iii & iv"
       },
       "correct_answer": "C"
@@ -10085,7 +10085,7 @@ const quizData = {
       "options": {
         "A": "Kolkata",
         "B": "Delhi",
-        "C": "Mumbai  8",
+        "C": "Mumbai",
         "D": "Hyderabad"
       },
       "correct_answer": "B"
@@ -10195,7 +10195,7 @@ const quizData = {
       "options": {
         "A": "Jesus the Redeemer",
         "B": "Statue of Liberty",
-        "C": "Spring Temple Buddha  9",
+        "C": "Spring Temple Buddha",
         "D": "Garuda Wisnu Kencana Statue"
       },
       "correct_answer": "C"
@@ -10294,7 +10294,7 @@ const quizData = {
       "options": {
         "A": "Prime lending Rate",
         "B": "Banker\u2019s Rate",
-        "C": "Reverse Repo Rate  10",
+        "C": "Reverse Repo Rate",
         "D": "Repo Rate"
       },
       "correct_answer": "D"
@@ -10415,7 +10415,7 @@ const quizData = {
       "options": {
         "A": "Arunachal Pradesh",
         "B": "Punjab",
-        "C": "Sikkim  11",
+        "C": "Sikkim",
         "D": "Chattisgarh"
       },
       "correct_answer": "B"
@@ -10492,7 +10492,7 @@ const quizData = {
       "options": {
         "A": "Silent Valley",
         "B": "Agasthyarkoodam",
-        "C": "Ezhimala  ______________________ 12",
+        "C": "Ezhimala  ______________________",
         "D": "Attapadi"
       },
       "correct_answer": "B"
@@ -10604,7 +10604,7 @@ const quizData = {
       "options": {
         "A": "Classroom",
         "B": "Peer group",
-        "C": "Family  1",
+        "C": "Family",
         "D": "Community"
       },
       "correct_answer": "C"
@@ -10703,7 +10703,7 @@ const quizData = {
       "options": {
         "A": "prepare a plan of action for talking",
         "B": "establish rapport with the student",
-        "C": "take the responsibility of solving the problem of the students  2",
+        "C": "take the responsibility of solving the problem of the students",
         "D": "refrain from giving more information to the student"
       },
       "correct_answer": "B"
@@ -10802,7 +10802,7 @@ const quizData = {
       "options": {
         "A": "Information processing",
         "B": "Behaviour modification",
-        "C": "Personal  3",
+        "C": "Personal",
         "D": "Social interaction"
       },
       "correct_answer": "A"
@@ -10901,7 +10901,7 @@ const quizData = {
       "options": {
         "A": "Finding the nature of difficulties",
         "B": "Finding the causes of difficulties",
-        "C": "Planning remedial programmes  4",
+        "C": "Planning remedial programmes",
         "D": "using remedial measures"
       },
       "correct_answer": "B"
@@ -11022,7 +11022,7 @@ const quizData = {
       "options": {
         "A": "Integrated Education for Disabled at Secondary Stage",
         "B": "Inclusive Education for Disabled at Secondary school Students",
-        "C": "Inclusive Education for Disabled at Secondary Schools  5",
+        "C": "Inclusive Education for Disabled at Secondary Schools",
         "D": "Inclusive Education for Disabled at Secondary Stage"
       },
       "correct_answer": "D"
@@ -11154,7 +11154,7 @@ const quizData = {
       "options": {
         "A": "so",
         "B": "such",
-        "C": "too  6",
+        "C": "too",
         "D": "that"
       },
       "correct_answer": "C"
@@ -11264,7 +11264,7 @@ const quizData = {
       "options": {
         "A": "Statement 1by itself determines the eldest child.",
         "B": "Statement 2 by itself determines the eldest child.",
-        "C": "Statements 1 and 2 are both required to determine the eldest child.  7",
+        "C": "Statements 1 and 2 are both required to determine the eldest child.",
         "D": "Statements 1 and 2 are not sufficient to determine the eldest child."
       },
       "correct_answer": "A"
@@ -11374,7 +11374,7 @@ const quizData = {
       "options": {
         "A": "10 m",
         "B": "10 m/s",
-        "C": "0  8",
+        "C": "0",
         "D": "100 m/s"
       },
       "correct_answer": "C"
@@ -11506,7 +11506,7 @@ const quizData = {
       "options": {
         "A": "Pratibha Patil",
         "B": "Pranab Mukherjee",
-        "C": "Ram Nath Kovind  9",
+        "C": "Ram Nath Kovind",
         "D": "A P J Abdul kalam"
       },
       "correct_answer": "A"
@@ -11605,7 +11605,7 @@ const quizData = {
       "options": {
         "A": "David Hare",
         "B": "Raja Ram Mohan Roy",
-        "C": "Mahadev Govind Ranade  10",
+        "C": "Mahadev Govind Ranade",
         "D": "Ramkrishna Bhandarkar"
       },
       "correct_answer": "B"
@@ -11682,7 +11682,7 @@ const quizData = {
       "options": {
         "A": "1, 2 & 3 only",
         "B": "1, 2 & 4 only",
-        "C": "1, 3 & 4 only  11",
+        "C": "1, 3 & 4 only",
         "D": "All are correct"
       },
       "correct_answer": "D"
@@ -11781,7 +11781,7 @@ const quizData = {
       "options": {
         "A": "I only",
         "B": "II only",
-        "C": "Both I & II  ____________________ 12",
+        "C": "Both I & II  ____________________",
         "D": "Neither I nor II"
       },
       "correct_answer": "C"
@@ -12652,7 +12652,7 @@ const quizData = {
       "options": {
         "A": "19",
         "B": "13",
-        "C": "17  25",
+        "C": "17",
         "D": ""
       },
       "correct_answer": "A"
@@ -12663,7 +12663,7 @@ const quizData = {
       "options": {
         "A": "180",
         "B": "540",
-        "C": "260  160",
+        "C": "260",
         "D": ""
       },
       "correct_answer": "B"
@@ -12674,7 +12674,7 @@ const quizData = {
       "options": {
         "A": "80",
         "B": "400",
-        "C": "4200  1700",
+        "C": "4200",
         "D": ""
       },
       "correct_answer": "D"
@@ -13081,7 +13081,7 @@ const quizData = {
       "options": {
         "A": "PSLV C-20",
         "B": "PSLV C-22",
-        "C": "PSLV C-25  40",
+        "C": "PSLV C-25",
         "D": "PSLV C-"
       },
       "correct_answer": "C"
@@ -13281,7 +13281,7 @@ const quizData = {
       "options": {
         "A": "101",
         "B": "110",
-        "C": "111  2",
+        "C": "111",
         "D": "121"
       },
       "correct_answer": "A"
@@ -13402,7 +13402,7 @@ const quizData = {
       "options": {
         "A": "Perseverance",
         "B": "Curiosity",
-        "C": "Mariner  3",
+        "C": "Mariner",
         "D": "Hope"
       },
       "correct_answer": "A"
@@ -13512,7 +13512,7 @@ const quizData = {
       "options": {
         "A": "Andhra Pradesh",
         "B": "West Bengal",
-        "C": "Odisha  4",
+        "C": "Odisha",
         "D": "Tamil Nadu"
       },
       "correct_answer": "C"
@@ -13574,7 +13574,7 @@ const quizData = {
     },
     {
       "id": "44",
-      "text": "The movement which started in Travancore against the administrative reforms introduced in 1932",
+      "text": "The movement which started in Travancore against the administrative reforms introduced in",
       "options": {
         "A": "Electricity Agitation",
         "B": "Pattini Jatha",
@@ -13644,7 +13644,7 @@ const quizData = {
       "options": {
         "A": "8 km",
         "B": "9.5 km",
-        "C": "10 km  5",
+        "C": "10 km",
         "D": "11.2 km"
       },
       "correct_answer": "C"
@@ -13754,7 +13754,7 @@ const quizData = {
       "options": {
         "A": "Pandit Bhimsen Joshi",
         "B": "Pandit Ravi Shankar",
-        "C": "M S Subbulakshmi  6",
+        "C": "M S Subbulakshmi",
         "D": "Pandit Shivkumar Sharma"
       },
       "correct_answer": "A"
@@ -13875,7 +13875,7 @@ const quizData = {
       "options": {
         "A": "Takes a lot of time to plan and execute",
         "B": "Opportunity to discover",
-        "C": "It follows passive learning  7",
+        "C": "It follows passive learning",
         "D": "Teacher dominated classroom"
       },
       "correct_answer": "B"
@@ -13996,7 +13996,7 @@ const quizData = {
       "options": {
         "A": "Photoshop",
         "B": "Norton",
-        "C": "Yahoo  8",
+        "C": "Yahoo",
         "D": "Flash"
       },
       "correct_answer": "B"
@@ -14106,7 +14106,7 @@ const quizData = {
       "options": {
         "A": "to render advice to the Government, Universities and other institutions of  higher education in the State; agencies in higher education within the State;",
         "B": "to coordinate the roles of the Government, Universities and apex regulatory",
-        "C": "to provide common facilities in higher education without impinging upon the  autonomy of other institutions of higher education. 9",
+        "C": "to provide common facilities in higher education without impinging upon the  autonomy of other institutions of higher education.",
         "D": "All of the above"
       },
       "correct_answer": "D"
@@ -14205,7 +14205,7 @@ const quizData = {
       "options": {
         "A": "Verbal and abstract",
         "B": "Concrete and abstract",
-        "C": "Verbal and concrete  10",
+        "C": "Verbal and concrete",
         "D": "non-Verbal and concrete"
       },
       "correct_answer": "C"
@@ -14293,7 +14293,7 @@ const quizData = {
       "options": {
         "A": "Sorrow exists",
         "B": "Sorrow can be eliminated",
-        "C": "There is a cause of sorrow  11",
+        "C": "There is a cause of sorrow",
         "D": "There is a way of destroying sorrow"
       },
       "correct_answer": "B"
@@ -14381,7 +14381,7 @@ const quizData = {
       "options": {
         "A": "1, 3, 5, 4, 2",
         "B": "1, 2, 5, 4, 3",
-        "C": "1, 5, 3, 2, 4  12",
+        "C": "1, 5, 3, 2, 4",
         "D": "1, 4, 3, 5, 2"
       },
       "correct_answer": "D"
@@ -14414,7 +14414,7 @@ const quizData = {
       "options": {
         "A": "Achievement",
         "B": "Prognostic",
-        "C": "Ipsative  ---------------------------------------- 13",
+        "C": "Ipsative  ----------------------------------------",
         "D": "Diagnostic"
       },
       "correct_answer": "D"
@@ -14636,7 +14636,7 @@ const quizData = {
       "options": {
         "A": "M.K. Gandhi",
         "B": "Swami Vivekananda",
-        "C": "John Dewey  2",
+        "C": "John Dewey",
         "D": "Aurobindo"
       },
       "correct_answer": "D"
@@ -14746,7 +14746,7 @@ const quizData = {
       "options": {
         "A": "Dyslexia",
         "B": "Dysgraphia",
-        "C": "Dyscalculia  3",
+        "C": "Dyscalculia",
         "D": "Disorders"
       },
       "correct_answer": "C"
@@ -14845,7 +14845,7 @@ const quizData = {
       "options": {
         "A": "Message, Receiver, Feedback, Sender, Transmission.",
         "B": "Transmission, Feedback, Sender, Receiver, Message",
-        "C": "Sender, Feedback, Transmission, Message, Receiver  4",
+        "C": "Sender, Feedback, Transmission, Message, Receiver",
         "D": "Sender, Message, Transmission, Receiver, Feedback."
       },
       "correct_answer": "D"
@@ -14966,7 +14966,7 @@ const quizData = {
       "options": {
         "A": "Erik Erikson",
         "B": "Lev Vygotsky",
-        "C": "Abraham Maslow  5",
+        "C": "Abraham Maslow",
         "D": "Robert Gagne"
       },
       "correct_answer": "A"
@@ -15054,7 +15054,7 @@ const quizData = {
       "options": {
         "A": "Course coverage",
         "B": "Students\u2019 interest",
-        "C": "Learning outcomes of students  6",
+        "C": "Learning outcomes of students",
         "D": "Use of teaching aids in the classroom"
       },
       "correct_answer": "C"
@@ -15175,7 +15175,7 @@ const quizData = {
       "options": {
         "A": "Western Ghats",
         "B": "Monuments at Mahabalipuram",
-        "C": "Jews Synagogue, Mattancheri  7",
+        "C": "Jews Synagogue, Mattancheri",
         "D": "Chhatrapati Shivaji Terminus"
       },
       "correct_answer": "C"
@@ -15285,7 +15285,7 @@ const quizData = {
       "options": {
         "A": "Jawaharlal Nehru",
         "B": "Nelson Mandela",
-        "C": "Martin Luther King  8",
+        "C": "Martin Luther King",
         "D": "Zakir Hussain"
       },
       "correct_answer": "B"
@@ -15373,7 +15373,7 @@ const quizData = {
       "options": {
         "A": "Breaking the language barrier that many students face while joining the  institutes of higher education",
         "B": "Early warning of the national disaster in flood-hit areas",
-        "C": "Prudential norms on Income Recognition of employees  9",
+        "C": "Prudential norms on Income Recognition of employees",
         "D": "Financial scheme to patients suffered during COVID- 19"
       },
       "correct_answer": "A"
@@ -15461,7 +15461,7 @@ const quizData = {
       "options": {
         "A": "24.9",
         "B": "26.1",
-        "C": "27.1  10",
+        "C": "27.1",
         "D": "28.9"
       },
       "correct_answer": "C"
@@ -15560,7 +15560,7 @@ const quizData = {
       "options": {
         "A": "Mirabai Chanu and Ravi Kumar Dahiya",
         "B": "Lovlina Borgohain and Bajrang Punia",
-        "C": "Mirabai Chanu and Neeraj Chopra  11",
+        "C": "Mirabai Chanu and Neeraj Chopra",
         "D": "P V Sindhu and Lovlina Borgohain"
       },
       "correct_answer": "A"
@@ -15648,7 +15648,7 @@ const quizData = {
       "options": {
         "A": "Misanthropic",
         "B": "Altruist",
-        "C": "Swindler  12",
+        "C": "Swindler",
         "D": "Antagonis"
       },
       "correct_answer": "B"
@@ -15736,7 +15736,7 @@ const quizData = {
       "options": {
         "A": "11 Kmph",
         "B": "8 Kmph",
-        "C": "14 Kmph  __________________ 13",
+        "C": "14 Kmph  __________________",
         "D": "12 Kmph"
       },
       "correct_answer": "D"
@@ -18481,7 +18481,7 @@ const quizData = {
       "options": {
         "A": "2009",
         "B": "2010",
-        "C": "2011  2",
+        "C": "2011",
         "D": "2012"
       },
       "correct_answer": "D"
@@ -18547,7 +18547,7 @@ const quizData = {
       "options": {
         "A": "Educational Supervision",
         "B": "Curriculam Construction",
-        "C": "Curriculam Evaluation  3",
+        "C": "Curriculam Evaluation",
         "D": "Educational Planning"
       },
       "correct_answer": "D"
@@ -18624,7 +18624,7 @@ const quizData = {
       "options": {
         "A": "Penalty for publishing electronic signature certificate false in certain  particulars communication devices",
         "B": "Criminalise sending of offensive messages through a Computer or other",
-        "C": "Tampering with computer Source documents\u2019  4",
+        "C": "Tampering with computer Source documents\u2019",
         "D": "Punishment for cyber terrorism"
       },
       "correct_answer": "D"
@@ -18701,7 +18701,7 @@ const quizData = {
       "options": {
         "A": "Practices demonstrations",
         "B": "Encourages activity",
-        "C": "Solves problems  5",
+        "C": "Solves problems",
         "D": "Encourages narration"
       },
       "correct_answer": "D"
@@ -18778,7 +18778,7 @@ const quizData = {
       "options": {
         "A": "NIT Act 2004",
         "B": "NISTE Act 2006",
-        "C": "NIT Act 2007  6",
+        "C": "NIT Act 2007",
         "D": "NTE Act 2009"
       },
       "correct_answer": "C"
@@ -18855,7 +18855,7 @@ const quizData = {
       "options": {
         "A": "Learning by doing",
         "B": "Multimodal teaching",
-        "C": "Multisensory approach  7",
+        "C": "Multisensory approach",
         "D": "Collaborative approach"
       },
       "correct_answer": "B"
@@ -18943,7 +18943,7 @@ const quizData = {
       "options": {
         "A": "Top- down processing",
         "B": "Bottom- up processing",
-        "C": "Abstract processing  8",
+        "C": "Abstract processing",
         "D": "Perceptual processing"
       },
       "correct_answer": "B"
@@ -19020,7 +19020,7 @@ const quizData = {
       "options": {
         "A": "Hindi",
         "B": "Tamil",
-        "C": "Telugu  Answer questions 65 and 66 based on the information given below: In a certain code language (not necessarily in the exact order), \u201cAll colors are beautiful\u201d is written as \u201cmq wz rx nu\u201d \u201cBeautiful things are visual treat\u201d is written as \u201ctl rx ar pv nu\u201d \u201cRam has good visual memory\u201d is written as \u201cce jl ar mq fh\u201d \u201cAll vegetables are good\u201d is written as \u201czx nu jl ab\u201d 9",
+        "C": "Telugu  Answer questions 65 and 66 based on the information given below: In a certain code language (not necessarily in the exact order), \u201cAll colors are beautiful\u201d is written as \u201cmq wz rx nu\u201d \u201cBeautiful things are visual treat\u201d is written as \u201ctl rx ar pv nu\u201d \u201cRam has good visual memory\u201d is written as \u201cce jl ar mq fh\u201d \u201cAll vegetables are good\u201d is written as \u201czx nu jl ab\u201d",
         "D": "English"
       },
       "correct_answer": "B"
@@ -19119,7 +19119,7 @@ const quizData = {
       "options": {
         "A": "Dioptre",
         "B": "Snellen",
-        "C": "Lux  10",
+        "C": "Lux",
         "D": "Lumen"
       },
       "correct_answer": "A"
@@ -19229,7 +19229,7 @@ const quizData = {
       "options": {
         "A": "1 & 2 only",
         "B": "2 & 3 only",
-        "C": "3 & 4 only  11",
+        "C": "3 & 4 only",
         "D": "1 & 4 only"
       },
       "correct_answer": "A"
@@ -19284,7 +19284,7 @@ const quizData = {
       "options": {
         "A": "1 & 2 only",
         "B": "2 & 3 only",
-        "C": "3 & 4 only  12",
+        "C": "3 & 4 only",
         "D": "1 & 4 only"
       },
       "correct_answer": "C"
@@ -19339,7 +19339,7 @@ const quizData = {
       "options": {
         "A": "Krishna",
         "B": "Godavari",
-        "C": "Tapti  13",
+        "C": "Tapti",
         "D": "Narmada"
       },
       "correct_answer": "D"
@@ -19394,7 +19394,7 @@ const quizData = {
       "options": {
         "A": "1&2 only",
         "B": "2 & 3 only",
-        "C": "1, 3 & 4 only  14",
+        "C": "1, 3 & 4 only",
         "D": "1, 2, 3 & 4"
       },
       "correct_answer": "D"
@@ -19460,7 +19460,7 @@ const quizData = {
       "options": {
         "A": "Tuesday",
         "B": "Wednesday",
-        "C": "Thursday  15",
+        "C": "Thursday",
         "D": "Monday"
       },
       "correct_answer": "B"
@@ -19559,7 +19559,7 @@ const quizData = {
       "options": {
         "A": "doesn\u2019t he",
         "B": "isn\u2019t it",
-        "C": "wouldn\u2019t he  16",
+        "C": "wouldn\u2019t he",
         "D": "won\u2019t he"
       },
       "correct_answer": "C"
@@ -19636,7 +19636,7 @@ const quizData = {
       "options": {
         "A": "Moon\u2019s atmosphere",
         "B": "Mar\u2019s atmosphere",
-        "C": "Outer space  ___________________________ 17",
+        "C": "Outer space  ___________________________",
         "D": "International space station"
       },
       "correct_answer": "C"
@@ -19781,7 +19781,7 @@ const quizData = {
       "options": {
         "A": "Bilateral transfer",
         "B": "Positive transfer",
-        "C": "Negative transfer  2",
+        "C": "Negative transfer",
         "D": "None of these"
       },
       "correct_answer": "A"
@@ -19902,7 +19902,7 @@ const quizData = {
       "options": {
         "A": "Froebel",
         "B": "Dewey",
-        "C": "Rousseau  3",
+        "C": "Rousseau",
         "D": "Paulo Freire"
       },
       "correct_answer": "C"
@@ -20023,7 +20023,7 @@ const quizData = {
       "options": {
         "A": "Above",
         "B": "Above or below",
-        "C": "Below  4",
+        "C": "Below",
         "D": "Similar to"
       },
       "correct_answer": "B"
@@ -20133,7 +20133,7 @@ const quizData = {
       "options": {
         "A": "Inter-connectedness",
         "B": "Intimacy",
-        "C": "Cohesiveness  5",
+        "C": "Cohesiveness",
         "D": "Similarity"
       },
       "correct_answer": "C"
@@ -20232,7 +20232,7 @@ const quizData = {
       "options": {
         "A": "Questionnaire",
         "B": "Aptitude test",
-        "C": "Surveys  6",
+        "C": "Surveys",
         "D": "Attitude Scale"
       },
       "correct_answer": "D"
@@ -20309,7 +20309,7 @@ const quizData = {
       "options": {
         "A": "Varanasi",
         "B": "Kolkatha",
-        "C": "Kozhikode  7",
+        "C": "Kozhikode",
         "D": "New Delhi"
       },
       "correct_answer": "C"
@@ -20386,7 +20386,7 @@ const quizData = {
       "options": {
         "A": "(A) is true, but (R) is false",
         "B": "(A) is false, but (R) is true",
-        "C": "Both (A) and (R) are true and (R) is the correct explanation of (A)  8",
+        "C": "Both (A) and (R) are true and (R) is the correct explanation of (A)",
         "D": "Both (A) and (R) are true but (R) is not the correct explanation of (A)"
       },
       "correct_answer": "C"
@@ -20474,7 +20474,7 @@ const quizData = {
       "options": {
         "A": "Rashtrakutas",
         "B": "Pallavas",
-        "C": "Chalukyas  9",
+        "C": "Chalukyas",
         "D": "Pandyas"
       },
       "correct_answer": "C"
@@ -20551,7 +20551,7 @@ const quizData = {
       "options": {
         "A": "National Policy on Skill Development and Entrepreneurship, NPSDE 2015",
         "B": "National Education Policy, NEP 2020",
-        "C": "National Institution for Transforming India, NITI Aayog 2015  10",
+        "C": "National Institution for Transforming India, NITI Aayog 2015",
         "D": "Pradhan Mantri Jan Dhan Yojana, PMJDY 2014"
       },
       "correct_answer": "A"
@@ -20639,7 +20639,7 @@ const quizData = {
       "options": {
         "A": "deabc",
         "B": "daceb",
-        "C": "acbed  11",
+        "C": "acbed",
         "D": "beadc"
       },
       "correct_answer": "B"
@@ -20727,7 +20727,7 @@ const quizData = {
       "options": {
         "A": "Emily Kern",
         "B": "Willard Libby",
-        "C": "Alexander Catlin Twining  12",
+        "C": "Alexander Catlin Twining",
         "D": "Fritz Strassmann"
       },
       "correct_answer": "B"
@@ -20815,7 +20815,7 @@ const quizData = {
       "options": {
         "A": "a-4, b-3, c-1, d-2",
         "B": "a-4, b-3, c-2, d-1",
-        "C": "a-3, b-2, c-4, d-1  13",
+        "C": "a-3, b-2, c-4, d-1",
         "D": "a-3, b-4, c-2, d-1"
       },
       "correct_answer": "A"
@@ -20881,7 +20881,7 @@ const quizData = {
       "options": {
         "A": "4 hours",
         "B": "3 hours 30 minutes",
-        "C": "3 hours 40 minutes  14",
+        "C": "3 hours 40 minutes",
         "D": "5 hours 30 minutes"
       },
       "correct_answer": "D"
@@ -20958,7 +20958,7 @@ const quizData = {
       "options": {
         "A": "14th July",
         "B": "23rd August",
-        "C": "3rd August  ___________________________ 15",
+        "C": "3rd August  ___________________________",
         "D": "31st July"
       },
       "correct_answer": "B"
@@ -21158,7 +21158,7 @@ const quizData = {
       "options": {
         "A": "Diagnostic test",
         "B": "Prognostic test",
-        "C": "Achievement pest  2",
+        "C": "Achievement pest",
         "D": "Performance test"
       },
       "correct_answer": "B"
@@ -21257,7 +21257,7 @@ const quizData = {
       "options": {
         "A": "Consider felt needs",
         "B": "Optimum utilization of resources",
-        "C": "Prepared by a particular institution  3",
+        "C": "Prepared by a particular institution",
         "D": "Limited utilization of resources"
       },
       "correct_answer": "D"
@@ -21323,7 +21323,7 @@ const quizData = {
       "options": {
         "A": "Depression",
         "B": "Autism",
-        "C": "Learning Disability  4",
+        "C": "Learning Disability",
         "D": "Dyslexia"
       },
       "correct_answer": "B"
@@ -21407,7 +21407,7 @@ const quizData = {
     },
     {
       "id": "41",
-      "text": "Match the following: List I                                  List II a. Genetic Epistemology                 1. Vygotsky b. Pedagogy of the oppressed            2. Ericson 5 c. Identity and life cycle              3. Piaget d. Mind in society                      4. Paulo Freire",
+      "text": "Match the following: List I                                  List II a. Genetic Epistemology                 1. Vygotsky b. Pedagogy of the oppressed            2. Ericson c. Identity and life cycle              3. Piaget d. Mind in society                      4. Paulo Freire",
       "options": {
         "A": "a-2, b-4, c-3, d-1",
         "B": "a-3, b-1, c-2, d-4",
@@ -21495,7 +21495,7 @@ const quizData = {
     },
     {
       "id": "49",
-      "text": "Raju is a teacher, his headmaster asked him to make an e content on the topic democracy. Raju followed some steps based on ADDIE model. Select the correct step based on this model. 6",
+      "text": "Raju is a teacher, his headmaster asked him to make an e content on the topic democracy. Raju followed some steps based on ADDIE model. Select the correct step based on this model.",
       "options": {
         "A": "Analyse, Develop, Design, Inspect, Execute",
         "B": "Arrange, Design, Develop, Inspect, Execute",
@@ -21583,7 +21583,7 @@ const quizData = {
     },
     {
       "id": "57",
-      "text": "Match the following: List I                                  List II a. ANOVA                                1.Urkund b. Plagiarism                           2. Experimental design 7 c. Qualitative research                 3. Statistics d. Dependent Variable                   4. Grounded theory",
+      "text": "Match the following: List I                                  List II a. ANOVA                                1.Urkund b. Plagiarism                           2. Experimental design c. Qualitative research                 3. Statistics d. Dependent Variable                   4. Grounded theory",
       "options": {
         "A": "a-4, b-1, c-3, d-2",
         "B": "a-3, b-1, c-4, d-2",
@@ -21682,7 +21682,7 @@ const quizData = {
     },
     {
       "id": "66",
-      "text": "Proponent of the continental drift theory is: 8",
+      "text": "Proponent of the continental drift theory is:",
       "options": {
         "A": "Herodotus",
         "B": "Mathew Flinders",
@@ -21770,7 +21770,7 @@ const quizData = {
     },
     {
       "id": "74",
-      "text": "Identify the indirect taxes from the given list of taxes: 1. Customs duty                     2. Stamp duty 3. Entertainment tax                4. Service tax 9",
+      "text": "Identify the indirect taxes from the given list of taxes: 1. Customs duty                     2. Stamp duty 3. Entertainment tax                4. Service tax",
       "options": {
         "A": "1& 2 only",
         "B": "2& 3 only",
@@ -21847,7 +21847,7 @@ const quizData = {
     },
     {
       "id": "82",
-      "text": "Identify the name of the capital of a country from the following clues. 10 1. It is the capital of a South American country. 2. The name of the capital is the same as the main character of \u2018Old Man and the Sea\u2019 of Ernest Hemingway. 3. The protagonist of the novel \u2018Alchemist\u2019 of Paulo Coelho also has the same name.",
+      "text": "Identify the name of the capital of a country from the following clues. 1. It is the capital of a South American country. 2. The name of the capital is the same as the main character of \u2018Old Man and the Sea\u2019 of Ernest Hemingway. 3. The protagonist of the novel \u2018Alchemist\u2019 of Paulo Coelho also has the same name.",
       "options": {
         "A": "Stanley",
         "B": "Willemstad",
@@ -21915,7 +21915,7 @@ const quizData = {
       "id": "89",
       "text": "----- is the least electronegative element and ----is the most electronegative element in the periodic table.",
       "options": {
-        "A": "Caesium & Fluorine  11",
+        "A": "Caesium & Fluorine",
         "B": "Beryllium & carbon",
         "C": "Magnesium & Chloine",
         "D": "Fluorine & Francium"
@@ -21972,7 +21972,7 @@ const quizData = {
       "options": {
         "A": "Reduce prevalence of anaemia in women, children and adolescents through  life cycle approach",
         "B": "Reduce prevalence of TB in women through life style approach",
-        "C": "Reduce cervical cancer among youngsters  12",
+        "C": "Reduce cervical cancer among youngsters",
         "D": "Eliminate poverty and hunger through sustainable life style"
       },
       "correct_answer": "A"
@@ -22071,7 +22071,7 @@ const quizData = {
       "options": {
         "A": "Amaterasu",
         "B": "Crab Nebula",
-        "C": "Pulsars  13",
+        "C": "Pulsars",
         "D": "Muon"
       },
       "correct_answer": "A"
@@ -22126,7 +22126,7 @@ const quizData = {
       "options": {
         "A": "Rs. 57.4 lakhs",
         "B": "Rs. 76.6 lakhs",
-        "C": "Rs. 72.2 lakhs  14",
+        "C": "Rs. 72.2 lakhs",
         "D": "Rs. 65.4 lakhs"
       },
       "correct_answer": "C"
@@ -22236,7 +22236,7 @@ const quizData = {
       "options": {
         "A": "1, 2 & 3",
         "B": "1 & 2 only",
-        "C": "1 & 3 only  ____________________ 16",
+        "C": "1 & 3 only  ____________________",
         "D": "2 & 3 only"
       },
       "correct_answer": "A"
@@ -22414,7 +22414,7 @@ const quizData = {
       "options": {
         "A": "Teaching practice",
         "B": "Administrative practice",
-        "C": "Reflective practice  2",
+        "C": "Reflective practice",
         "D": "Blended learning"
       },
       "correct_answer": "C"
@@ -22502,7 +22502,7 @@ const quizData = {
       "options": {
         "A": "Nominal Data",
         "B": "Ratio Data",
-        "C": "Interval Data  3",
+        "C": "Interval Data",
         "D": "Ordinal Data"
       },
       "correct_answer": "A"
@@ -22579,7 +22579,7 @@ const quizData = {
       "options": {
         "A": "Auditory Learning style",
         "B": "Read/Write Learning Style",
-        "C": "Visual Learning style  4",
+        "C": "Visual Learning style",
         "D": "Kinesthetic Learning style"
       },
       "correct_answer": "D"
@@ -22645,7 +22645,7 @@ const quizData = {
       "options": {
         "A": "Behaviourism",
         "B": "Social Reconstructionism",
-        "C": "Constructivism  5",
+        "C": "Constructivism",
         "D": "Existentialism"
       },
       "correct_answer": "D"
@@ -22711,7 +22711,7 @@ const quizData = {
       "options": {
         "A": "1, 3& 4 only",
         "B": "1, 2& 3 only",
-        "C": "2, 3& 4 only  6",
+        "C": "2, 3& 4 only",
         "D": "1, 2 & 4 only"
       },
       "correct_answer": "A"
@@ -22788,7 +22788,7 @@ const quizData = {
       "options": {
         "A": "Green computing",
         "B": "Super computing",
-        "C": "Cloud computing  7",
+        "C": "Cloud computing",
         "D": "Quantum computing"
       },
       "correct_answer": "C"
@@ -22865,7 +22865,7 @@ const quizData = {
       "options": {
         "A": "Classrooms where individual performance is measured against a standard",
         "B": "Courses where students are ranked in comparison to each other",
-        "C": "Group-based activities that encourage collaboration  8",
+        "C": "Group-based activities that encourage collaboration",
         "D": "Settings where class averages determine final grades"
       },
       "correct_answer": "A"
@@ -22953,7 +22953,7 @@ const quizData = {
       "options": {
         "A": "am",
         "B": "have been",
-        "C": "has been  9",
+        "C": "has been",
         "D": "will be"
       },
       "correct_answer": "B"
@@ -23041,7 +23041,7 @@ const quizData = {
       "options": {
         "A": "Black Hole Finder app",
         "B": "Smaller gene-editing protein",
-        "C": "Glucose Responsive Insulin for diabetic patients  10",
+        "C": "Glucose Responsive Insulin for diabetic patients",
         "D": "Liquid water hidden beneath the surface of Mars"
       },
       "correct_answer": "B"
@@ -23096,7 +23096,7 @@ const quizData = {
       "options": {
         "A": "1 only",
         "B": "2 only",
-        "C": "Both 1& 2  11",
+        "C": "Both 1& 2",
         "D": "Neither 1 nor 2"
       },
       "correct_answer": "A"
@@ -23162,7 +23162,7 @@ const quizData = {
       "options": {
         "A": "Platelets",
         "B": "Red Blood Cells",
-        "C": "Fibrinogen  12",
+        "C": "Fibrinogen",
         "D": "Albumin"
       },
       "correct_answer": "D"
@@ -23261,7 +23261,7 @@ const quizData = {
       "options": {
         "A": "$1 billion",
         "B": "$1 million",
-        "C": "$100000  13",
+        "C": "$100000",
         "D": "None of these"
       },
       "correct_answer": "A"
@@ -23360,7 +23360,7 @@ const quizData = {
       "options": {
         "A": "Russia",
         "B": "South Africa",
-        "C": "Brazil  14",
+        "C": "Brazil",
         "D": "European Union"
       },
       "correct_answer": "C"
@@ -23481,7 +23481,7 @@ const quizData = {
       "options": {
         "A": "The Brazilian Highlands",
         "B": "The Dead Sea",
-        "C": "The Tibetan Plateau  15",
+        "C": "The Tibetan Plateau",
         "D": "Colorado Plateau"
       },
       "correct_answer": "C"
@@ -23536,7 +23536,7 @@ const quizData = {
       "options": {
         "A": "Leaf",
         "B": "Petal",
-        "C": "Sepal  ___________________________ 16",
+        "C": "Sepal  ___________________________",
         "D": "Stigma"
       },
       "correct_answer": "D"
@@ -23681,7 +23681,7 @@ const quizData = {
       "options": {
         "A": "Competition and recognition",
         "B": "Rewards and personal achievements",
-        "C": "Proper monitoring and assessment  2",
+        "C": "Proper monitoring and assessment",
         "D": "Personal growth and student centeredness"
       },
       "correct_answer": "D"
@@ -23736,7 +23736,7 @@ const quizData = {
       "options": {
         "A": "21 (A)",
         "B": "21(B)",
-        "C": "22 (A)  3",
+        "C": "22 (A)",
         "D": "22 (B)"
       },
       "correct_answer": "A"
@@ -23835,7 +23835,7 @@ const quizData = {
       "options": {
         "A": "1,3 &4 only",
         "B": "3,4 &5 only",
-        "C": "1 & 2 only  4",
+        "C": "1 & 2 only",
         "D": "1, 2, 3, 4 & 5"
       },
       "correct_answer": "D"
@@ -23890,7 +23890,7 @@ const quizData = {
       "options": {
         "A": "Both A and R are true, and R is the correct explanation of A",
         "B": "Both A and R are true, but R is not the correct explanation of A",
-        "C": "A is true, but R is false  5",
+        "C": "A is true, but R is false",
         "D": "A is false, but R is true"
       },
       "correct_answer": "C"
@@ -23967,7 +23967,7 @@ const quizData = {
       "options": {
         "A": "Both A and R are true, and R is the correct explanation of A",
         "B": "Both A and R are true, but R is not the correct explanation of A",
-        "C": "A is true, but R is false  6",
+        "C": "A is true, but R is false",
         "D": "A is false, but R is true"
       },
       "correct_answer": "C"
@@ -24066,7 +24066,7 @@ const quizData = {
       "options": {
         "A": "Historical method",
         "B": "Descriptive method",
-        "C": "Experimental method  7",
+        "C": "Experimental method",
         "D": "Case study"
       },
       "correct_answer": "C"
@@ -24143,7 +24143,7 @@ const quizData = {
       "options": {
         "A": "Moral policing and punishment",
         "B": "Abstinence-only teachings",
-        "C": "Psychosocial education and coping skills  8",
+        "C": "Psychosocial education and coping skills",
         "D": "Ignoring the issue unless it arises"
       },
       "correct_answer": "C"
@@ -24227,7 +24227,7 @@ const quizData = {
     },
     {
       "id": "64",
-      "text": "Match List-I (Ramsar sites of India) with List-II (Location state ) 9 List-I                                List-II a. Wular Lake                         1. Sikkim b. Udhwa Lake                         2. Jammu & Kashmir c. Rudrasagar Lake                    3. Jharkhand d. Khecheopalri Lake                  4. Tripura",
+      "text": "Match List-I (Ramsar sites of India) with List-II (Location state ) List-I                                List-II a. Wular Lake                         1. Sikkim b. Udhwa Lake                         2. Jammu & Kashmir c. Rudrasagar Lake                    3. Jharkhand d. Khecheopalri Lake                  4. Tripura",
       "options": {
         "A": "a-2, b-3, c-4, d-1",
         "B": "a-4, b-3, c-1, d-2",
@@ -24297,7 +24297,7 @@ const quizData = {
       "options": {
         "A": "Michael Angelo",
         "B": "William de Kooning",
-        "C": "Leonardo da Vinci  10",
+        "C": "Leonardo da Vinci",
         "D": "Pablo Picasso"
       },
       "correct_answer": "C"
@@ -24381,7 +24381,7 @@ const quizData = {
     },
     {
       "id": "78",
-      "text": "Identify the incorrect statement regarding the Principal Organs of the UN: 11",
+      "text": "Identify the incorrect statement regarding the Principal Organs of the UN:",
       "options": {
         "A": "The International Court of Justice (ICJ) is the chief judicial organ of the UN.",
         "B": "The Secretary-General is the chief administrative officer of the UN.",
@@ -24447,7 +24447,7 @@ const quizData = {
     },
     {
       "id": "85",
-      "text": "Identify the incorrect statements about the western coast of India: 12 1.      The coast traverses through the states of Gujarat, Maharashtra, Goa, Karnataka and Kerala 2.      The coast is broadly divided into Kachch and Kathiawar Coast, Coromandal Coast, Konkan Coast and Malabar Coast 3.      The Western coastal plains are broader than the Eastern Coast of India 4.      Western Coast has more major ports than the Eastern Coast",
+      "text": "Identify the incorrect statements about the western coast of India: 1.      The coast traverses through the states of Gujarat, Maharashtra, Goa, Karnataka and Kerala 2.      The coast is broadly divided into Kachch and Kathiawar Coast, Coromandal Coast, Konkan Coast and Malabar Coast 3.      The Western coastal plains are broader than the Eastern Coast of India 4.      Western Coast has more major ports than the Eastern Coast",
       "options": {
         "A": "1 &2 only",
         "B": "2& 3only",
@@ -24517,7 +24517,7 @@ const quizData = {
       "options": {
         "A": "Affable",
         "B": "Recalcitrant",
-        "C": "Comely  13",
+        "C": "Comely",
         "D": "Congruous"
       },
       "correct_answer": "B"
@@ -24601,7 +24601,7 @@ const quizData = {
     },
     {
       "id": "99",
-      "text": "Match the following List I (countries) with List II (their respective space agencies). List I                             List II a. Russia                          1. DLR b. Japan                           2. CNES 14 c. France                             3. Roscosmos d. Germany                            4. JAXA",
+      "text": "Match the following List I (countries) with List II (their respective space agencies). List I                             List II a. Russia                          1. DLR b. Japan                           2. CNES c. France                             3. Roscosmos d. Germany                            4. JAXA",
       "options": {
         "A": "a-3, b-4, c-2, d-1",
         "B": "a-3, b-4, c-1, d-2",
@@ -24700,7 +24700,7 @@ const quizData = {
     },
     {
       "id": "108",
-      "text": "Identify the correct statements about banks in India: 1.     The Imperial Bank of India was nationalized and renamed as State Bank of India 2.     Reserve Bank of India was established in 1935. 3.     HDFC Bank is the biggest private sector bank in India 15 4.      NABARD is one of the biggest commercial banks in India",
+      "text": "Identify the correct statements about banks in India: 1.     The Imperial Bank of India was nationalized and renamed as State Bank of India 2.     Reserve Bank of India was established in 1935. 3.     HDFC Bank is the biggest private sector bank in India 4.      NABARD is one of the biggest commercial banks in India",
       "options": {
         "A": "1, 2& 3 only",
         "B": "2, 3& 4 only",
@@ -24788,7 +24788,7 @@ const quizData = {
     },
     {
       "id": "116",
-      "text": "The lone Communist member in the Constituent Assembly of India: 16",
+      "text": "The lone Communist member in the Constituent Assembly of India:",
       "options": {
         "A": "S A Dange",
         "B": "M N Roy",
@@ -24799,7 +24799,7 @@ const quizData = {
     },
     {
       "id": "117",
-      "text": "Match List I with List II List I                                List II a. Radhakrishnan Commission           1. Established in 1964, recommended three language formula b. Mudaliar Commission                2. Focussed on reforms in higher education, research and innovations and intellectual prosperity c. Kothari Commission                 3. Focused on secondary education. Established in 1952 d. National Knowledge                 4. First education Commission in free India, Commission                        focused on reforming university education.",
+      "text": "Match List I with List II List I                                List II a. Radhakrishnan Commission           1. Established in 1964, recommended three language formula b. Mudaliar Commission                2. Focussed on reforms in higher education, research and innovations and intellectual prosperity c. Kothari Commission                 3. Focused on secondary education. Established in d. National Knowledge                 4. First education Commission in free India, Commission                        focused on reforming university education.",
       "options": {
         "A": "a-4, b-1, c-3, d-2",
         "B": "a-3, b-4, c-2, d-1",
@@ -24825,7 +24825,7 @@ const quizData = {
       "options": {
         "A": "The XIX CWG, 2010          : Australia",
         "B": "The XXII CWG, 2022         : England",
-        "C": "The X CWG, 1974            : Canada  17",
+        "C": "The X CWG, 1974            : Canada",
         "D": "The XV CWG, 1994           : Malaysia"
       },
       "correct_answer": "B"
