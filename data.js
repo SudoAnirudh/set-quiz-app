@@ -180,10 +180,21 @@ const quizData = {
       "id": "17",
       "text": "Which of the following is the most populous city in India?",
       "options": {
-        "A": "Mumbai Gold",
-        "B": "Kolkata Coal",
-        "C": "Chennai  18Manganese",
-        "D": "Delhi  In which of the following minerals India is the largest producer in the world?Mica"
+        "A": "Mumbai",
+        "B": "Kolkata",
+        "C": "Chennai",
+        "D": "Delhi"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": "18",
+      "text": "In which of the following minerals India is the largest producer in the world?",
+      "options": {
+        "A": "Gold",
+        "B": "Coal",
+        "C": "Manganese",
+        "D": "Mica"
       },
       "correct_answer": "D"
     },
@@ -1730,6 +1741,17 @@ const quizData = {
       "correct_answer": "B"
     },
     {
+      "id": "39",
+      "text": "The recipient of Dadasaheb Phalke Award in 2014 was",
+      "options": {
+        "A": "VK Murthy",
+        "B": "Pran",
+        "C": "Gulzar",
+        "D": "Shashi Kapoor"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "40",
       "text": "Which of the following generic terms is not a management function?",
       "options": {
@@ -2203,6 +2225,17 @@ const quizData = {
       "correct_answer": "A"
     },
     {
+      "id": "83",
+      "text": "The degree to which a test appears to measure what it is supposed to measure is known as",
+      "options": {
+        "A": "Content validity",
+        "B": "Construct validity",
+        "C": "Test retest Reliability",
+        "D": "Criterion reliability"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "84",
       "text": "The assistance given to pupils in their choices and adjustments in relation to school, curriculum and courses is:",
       "options": {
@@ -2212,6 +2245,17 @@ const quizData = {
         "D": "Group guidance"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "85",
+      "text": "Which of the following educational thinkers is associated with progressivism?",
+      "options": {
+        "A": "Montessori",
+        "B": "Rousseau",
+        "C": "Dewey",
+        "D": "Froebel"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "86",
@@ -2811,11 +2855,11 @@ const quizData = {
     },
     {
       "id": "20",
-      "text": "The historic Punnapra-Vayalar Revolt was against:",
+      "text": "The historic Punnapra-Vayalar Revolt was against: 43 million people are eligible to cast their vote.",
       "options": {
         "A": "The British rule in India  giving them adequate wages",
         "B": "The landlords of Kuttanad who exploited the farm labourers without",
-        "C": "The oppressive rule of C.P. Ramaswamy Iyer, the Dewan of Travancore  Read the following passage and answer questions 21 to 23 based on the passage. Ethnic minorities in the U.K., including those from India, are likely to vote for the country to stay in the European Union in the June 23 referendum in which roughly 43 million people are eligible to cast their vote.",
+        "C": "The oppressive rule of C.P. Ramaswamy Iyer, the Dewan of Travancore  Read the following passage and answer questions 21 to 23 based on the passage. Ethnic minorities in the U.K., including those from India, are likely to vote for the country to stay in the European Union in the June 23 referendum in which roughly",
         "D": "The alliance of the British and the King of Travancore"
       },
       "correct_answer": "C"
@@ -3990,23 +4034,23 @@ const quizData = {
     },
     {
       "id": "7",
-      "text": "The number in each row/column of the square is written according to the same rule. By identifying the rule, find the missing number 8        6   10 3        4    5 7       24    ?",
+      "text": "The number in each row/column of the square is written according to the same rule. By identifying the rule, find the missing number",
       "options": {
-        "A": "25",
-        "B": "75",
-        "C": "50",
-        "D": "30"
+        "A": "",
+        "B": "",
+        "C": "",
+        "D": ""
       },
       "correct_answer": "A"
     },
     {
       "id": "8",
-      "text": "The average density of the earth is ------- gm/cm3",
+      "text": "6   10 3        4    5 7       24    ? 8.      The average density of the earth is ------- gm/cm3",
       "options": {
-        "A": "2.7",
-        "B": "3.2",
-        "C": "12.3",
-        "D": "5.5"
+        "A": "25 2.7",
+        "B": "75 3.2",
+        "C": "50 12.3",
+        "D": "30 5.5"
       },
       "correct_answer": "D"
     },
@@ -5787,12 +5831,23 @@ const quizData = {
       "id": "50",
       "text": "According to the Right to Information Act 2005, if a person seeks information that concerns the life and security of a person, it shall be provided within a period of -----from the time of receipt of the request.",
       "options": {
-        "A": "24 hours 13 (3)",
-        "B": "48 hours 11 (1)",
-        "C": "3 days  51 prohibits physical punishment or mental harassment of children in school?17 (1)",
-        "D": "7 days  Which Clause in the Right of Children to Free and Compulsory Education Act, 20098 (2)"
+        "A": "24 hours",
+        "B": "48 hours",
+        "C": "3 days",
+        "D": "7 days"
       },
       "correct_answer": "B"
+    },
+    {
+      "id": "51",
+      "text": "Which Clause in the Right of Children to Free and Compulsory Education Act, 2009 prohibits physical punishment or mental harassment of children in school?",
+      "options": {
+        "A": "13 (3)",
+        "B": "11 (1)",
+        "C": "17 (1)",
+        "D": "8 (2)"
+      },
+      "correct_answer": "C"
     },
     {
       "id": "52",
@@ -6790,12 +6845,23 @@ const quizData = {
       "id": "22",
       "text": "Rig Veda says, education is the process which makes man self-reliant and",
       "options": {
-        "A": "Selfless Lecturing",
-        "B": "Human Speaking-listening",
-        "C": "Useful  23Mass communication",
-        "D": "Worthy  An example for non verbal communication isGestures"
+        "A": "Selfless",
+        "B": "Human",
+        "C": "Useful",
+        "D": "Worthy"
       },
       "correct_answer": "A"
+    },
+    {
+      "id": "23",
+      "text": "An example for non verbal communication is",
+      "options": {
+        "A": "Lecturing",
+        "B": "Speaking-listening",
+        "C": "Mass communication",
+        "D": "Gestures"
+      },
+      "correct_answer": "D"
     },
     {
       "id": "24",
@@ -10105,12 +10171,23 @@ const quizData = {
       "id": "84",
       "text": "Complete the series: 113, 226, 346, 480, 635, ..\u2026\u2026.?",
       "options": {
-        "A": "717 2850",
-        "B": "786 2750",
-        "C": "818  The difference between \u2158 of a number and 38% of the same number is 1134. What th 85. is the number?2800",
-        "D": "846 2700"
+        "A": "717",
+        "B": "786",
+        "C": "818  The difference between \u2158 of a number and 38% of the same number is 1134. What th",
+        "D": "846"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "85",
+      "text": "is the number?",
+      "options": {
+        "A": "2850",
+        "B": "2750",
+        "C": "2800",
+        "D": "2700"
+      },
+      "correct_answer": "D"
     },
     {
       "id": "86",
@@ -10646,12 +10723,23 @@ const quizData = {
       "id": "14",
       "text": "Mnemonic is a strategy used to enhance:",
       "options": {
-        "A": "Reading Slow learner",
-        "B": "Thinking Mentally retarded",
-        "C": "Memory  15Gifted",
-        "D": "Reasoning  If the child is dull due to low intelligence and is lagging behind in the class, the child is:Underachiever"
+        "A": "Reading",
+        "B": "Thinking",
+        "C": "Memory",
+        "D": "Reasoning"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "15",
+      "text": "If the child is dull due to low intelligence and is lagging behind in the class, the child is:",
+      "options": {
+        "A": "Slow learner",
+        "B": "Mentally retarded",
+        "C": "Gifted",
+        "D": "Underachiever"
+      },
+      "correct_answer": "A"
     },
     {
       "id": "16",
@@ -10852,6 +10940,17 @@ const quizData = {
       "correct_answer": "A"
     },
     {
+      "id": "34",
+      "text": "An advance organiser will help:",
+      "options": {
+        "A": "to direct students attention to import points",
+        "B": "to relate the ideas to be presented",
+        "C": "to remind student about relevant information",
+        "D": "to give opportunity to move on to the concept"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "35",
       "text": "Identify the correct sequence of cognitive development 1.      Egocentrism 2. Abstract thinking 3. Concrete thinking 4. Intuitive phase",
       "options": {
@@ -10949,6 +11048,17 @@ const quizData = {
         "D": "Teaching resources"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "44",
+      "text": "In the software hotpotatoes all exercises will be compiled into one unit by",
+      "options": {
+        "A": "JCloze",
+        "B": "JMix",
+        "C": "JCross",
+        "D": "The Master"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "45",
@@ -12439,11 +12549,11 @@ const quizData = {
     },
     {
       "id": "60",
-      "text": "------ is not required for an effective communication",
+      "text": "------ is not required for an effective communication 20236 A GK",
       "options": {
         "A": "Appropriate gestures",
         "B": "Speech modulation",
-        "C": "Charming personality  content 20236 A GK",
+        "C": "Charming personality  content",
         "D": "Good knowledge of the"
       },
       "correct_answer": "C"
@@ -13011,11 +13121,11 @@ const quizData = {
     },
     {
       "id": "112",
-      "text": "When two pipes A & B are opened together, it takes 7.5 minutes to fill a tank. Let C be an emptying pipe. If they all are opened together, it takes 15 minutes to fill the tank. Find the time taken by C to empty the tank if it is completely filled.",
+      "text": "When two pipes A & B are opened together, it takes 7.5 minutes to fill a tank. Let C be an emptying pipe. If they all are opened together, it takes 15 minutes to fill the tank. Find the time taken by C to empty the tank if it is completely filled. 15 min.",
       "options": {
         "A": "5 min.",
         "B": "8 min.",
-        "C": "11 min.  15 min.",
+        "C": "11 min.",
         "D": ""
       },
       "correct_answer": "D"
@@ -13131,6 +13241,17 @@ const quizData = {
         "D": "Reptiles"
       },
       "correct_answer": "D"
+    },
+    {
+      "id": "3",
+      "text": "Why radiation is not employed in radiotherapy?",
+      "options": {
+        "A": "Ionizing radiation",
+        "B": "Not cost effective",
+        "C": "Unable to penetrate skin",
+        "D": "Toxic to human tissues"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "4",
@@ -15989,10 +16110,21 @@ const quizData = {
       "id": "23",
       "text": "Doordarshan\u2019s Educational Channel:",
       "options": {
-        "A": "Gyan Bharathi GSAT 2",
-        "B": "Gyan Darshan GSAT 3",
-        "C": "Vidya Darshan  24 based two way communication to class room for delivering educational materials.GSAT 4",
-        "D": "Victors Channel  Select the first dedicated \"Educational Satellite\" that provide the country with satelliteGSAT 5"
+        "A": "Gyan Bharathi",
+        "B": "Gyan Darshan",
+        "C": "Vidya Darshan",
+        "D": "Victors Channel"
+      },
+      "correct_answer": "B"
+    },
+    {
+      "id": "24",
+      "text": "Select the first dedicated \"Educational Satellite\" that provide the country with satellite based two way communication to class room for delivering educational materials.",
+      "options": {
+        "A": "GSAT 2",
+        "B": "GSAT 3",
+        "C": "GSAT 4",
+        "D": "GSAT 5"
       },
       "correct_answer": "B"
     },
@@ -16253,10 +16385,21 @@ const quizData = {
       "id": "48",
       "text": "A systematic research technique for reliably coding sequential naturally-occurring interactions and making valid interpretations and inferences from those data to the context in which the observations are occurred is called ---- analysis.",
       "options": {
-        "A": "Interaction Joint Photographic Experts Group",
-        "B": "Critical Joint Photographic Electronic Group",
-        "C": "Exploratory  49Joint Pixel Export Group",
-        "D": "Inferential  jpeg stands for:Joint Pixel Exchange Group"
+        "A": "Interaction",
+        "B": "Critical",
+        "C": "Exploratory",
+        "D": "Inferential"
+      },
+      "correct_answer": "A"
+    },
+    {
+      "id": "49",
+      "text": "jpeg stands for:",
+      "options": {
+        "A": "Joint Photographic Experts Group",
+        "B": "Joint Photographic Electronic Group",
+        "C": "Joint Pixel Export Group",
+        "D": "Joint Pixel Exchange Group"
       },
       "correct_answer": "A"
     },
@@ -17067,12 +17210,12 @@ const quizData = {
     },
     {
       "id": "3",
-      "text": "Kollam                      4.     Thiruvananthapuram",
+      "text": "Kollam                      4.     Thiruvananthapuram 3.      \u2018Playing It My Way\u2019 is the autobiography of:",
       "options": {
         "A": "1 & 2 only Ricky Ponting",
         "B": "2 & 3 only Sourav Ganguly",
-        "C": "3 & 4 only  3.Sachin Tendulkar",
-        "D": "1, 2, 3 & 4  \u2018Playing It My Way\u2019 is the autobiography of:Brian Lara"
+        "C": "3 & 4 only Sachin Tendulkar",
+        "D": "1, 2, 3 & 4 Brian Lara"
       },
       "correct_answer": "C"
     },
@@ -17350,6 +17493,17 @@ const quizData = {
         "D": "Unmistakable"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "29",
+      "text": "Identify the correct one word for \u2018a person who is hostile or indifferent to culture and the arts\u2019.",
+      "options": {
+        "A": "Pessimist",
+        "B": "Uncultured",
+        "C": "Nihilist",
+        "D": "Mundane"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "30",
@@ -17960,12 +18114,23 @@ const quizData = {
       "id": "85",
       "text": "The malicious program which collect information about users and sends the data to a remote user:",
       "options": {
-        "A": "Polymorphic Virus Qualitative",
-        "B": "Boot record infector Historical",
-        "C": "Spyware  86 observation, interviews, questionnaires, recordings from natural settings, documents, and case studies is ----- ResearchQuantitative",
-        "D": "File infector  The research which relies on data obtained by the researcher from first handExperimental"
+        "A": "Polymorphic Virus",
+        "B": "Boot record infector",
+        "C": "Spyware",
+        "D": "File infector"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "86",
+      "text": "The research which relies on data obtained by the researcher from first hand observation, interviews, questionnaires, recordings from natural settings, documents, and case studies is ----- Research",
+      "options": {
+        "A": "Qualitative",
+        "B": "Historical",
+        "C": "Quantitative",
+        "D": "Experimental"
+      },
+      "correct_answer": "A"
     },
     {
       "id": "87",
@@ -18389,12 +18554,12 @@ const quizData = {
     },
     {
       "id": "5",
-      "text": "Students can access everything freely online at school and at home.",
+      "text": "Students can access everything freely online at school and at home. 4.       Parents are very lenient and often do not stick to pre-determined rules. They 5.      Select the correct statements related to fostering giftedness: 1.     Separate Schools             2.     Ability Grouping 3.     Triple Track Plan            4.     Double Promotion",
       "options": {
         "A": "1, 2 & 3 only Authoritarian 2 & 3 only",
         "B": "3, 4 & 5 only Authoritative 3 & 4 only",
-        "C": "1 & 2 only  4. do not impose control over their children . This type parenting is known as ---- Parenting.Un involved  5. 1. 3.1 & 2 only",
-        "D": "1, 2, 3, 4 & 5  Parents are very lenient and often do not stick to pre-determined rules. TheyPermissive  Select the correct statements related to fostering giftedness: Separate Schools Triple Track Plan1, 2, 3 & 4"
+        "C": "1 & 2 only  do not impose control over their children . This type parenting is known as ---- Parenting.Un involved 1 & 2 only",
+        "D": "1, 2, 3, 4 & 5 Permissive 1, 2, 3 & 4"
       },
       "correct_answer": "D"
     },
@@ -18408,6 +18573,17 @@ const quizData = {
         "D": "1, 2, 3 & 4 only"
       },
       "correct_answer": "B"
+    },
+    {
+      "id": "7",
+      "text": "The name Harry Hornby is associated with:",
+      "options": {
+        "A": "Blended Learning",
+        "B": "Inclusive Education",
+        "C": "Collaborative learning",
+        "D": "Informal Education"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "8",
@@ -18534,10 +18710,21 @@ const quizData = {
       "id": "19",
       "text": "Immediate feedback should be given as part of assessment of student performance. This substantiates the role of Law of -----.",
       "options": {
-        "A": "Association Provide vocational training only, which is appropriate to the students",
-        "B": "Readiness Keep him/her in a class in which, there are many more students of",
-        "C": "Exercise  20 family/ background from the cultural viewpoint. You will: cultural viewpoint backward background from the cultural viewpointImplement special and separate teaching methods based on his /her  cultural viewpoint teaching him/her, keeping his special needs in view",
-        "D": "Effect  A child has been admitted to your school who belongs to a backwardKeep him/her in a normal class but will make special arrangements for"
+        "A": "Association",
+        "B": "Readiness",
+        "C": "Exercise",
+        "D": "Effect"
+      },
+      "correct_answer": "D"
+    },
+    {
+      "id": "20",
+      "text": "A child has been admitted to your school who belongs to a backward family/ background from the cultural viewpoint. You will:",
+      "options": {
+        "A": "Provide vocational training only, which is appropriate to the students  cultural viewpoint backward background from the cultural viewpoint",
+        "B": "Keep him/her in a class in which, there are many more students of",
+        "C": "Implement special and separate teaching methods based on his /her  cultural viewpoint teaching him/her, keeping his special needs in view",
+        "D": "Keep him/her in a normal class but will make special arrangements for"
       },
       "correct_answer": "D"
     },
@@ -21813,6 +22000,17 @@ const quizData = {
       "correct_answer": "B"
     },
     {
+      "id": "78",
+      "text": "If 221 = 215, 321 = 315, 421 = 413, then 521 = ?",
+      "options": {
+        "A": "511",
+        "B": "509",
+        "C": "513",
+        "D": "515"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "79",
       "text": "Anil got it in the neck for being late. The meaning of the sentence is:",
       "options": {
@@ -21899,6 +22097,17 @@ const quizData = {
         "D": "1& 3 only"
       },
       "correct_answer": "D"
+    },
+    {
+      "id": "87",
+      "text": "As per Malayalam calendar (Kollavarsham) the Gregorian calendar year 2024 is:",
+      "options": {
+        "A": "1898-1899",
+        "B": "1109-1110",
+        "C": "1199-2000",
+        "D": "2012-2013"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "88",
@@ -22132,6 +22341,17 @@ const quizData = {
       "correct_answer": "C"
     },
     {
+      "id": "109",
+      "text": "A person has to completely put each of three juices 434 litres of orange, 496 litres of grapes and 554 litres of pineapple in bottles of equal size without mixing any of the above three types of juices such that each bottle is completely filled. What is the least possible number of bottles required?",
+      "options": {
+        "A": "48",
+        "B": "38",
+        "C": "46",
+        "D": "44"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "110",
       "text": "The theme of International Women\u2019s Day (IWD) 2024 is:",
       "options": {
@@ -22185,6 +22405,17 @@ const quizData = {
         "D": "Article 15 (2)"
       },
       "correct_answer": "B"
+    },
+    {
+      "id": "115",
+      "text": "Match the following: List I (Awards/Prize)                                       List II (Person) a. PEN Pinter Prize 2023                                        1. Kartiki Gonsalves b. Elephant Family environmental award, 2023                    2. Waciny Laredj c. Nyholm Prize for Education, 2023                             3. Michael Rosen d. Great Arab Minds Award, 2023                                 4. Savita Ladage",
+      "options": {
+        "A": "a-3, b-4, c-1, d-2",
+        "B": "a-1, b-4, c-3, d-2",
+        "C": "a-4, b-1, c-2, d-3",
+        "D": "a-3, b-2,c-4, d-1"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "116",
@@ -22618,6 +22849,17 @@ const quizData = {
       "correct_answer": "C"
     },
     {
+      "id": "35",
+      "text": "A teacher employing a \"flipped classroom\" model primarily focuses on:",
+      "options": {
+        "A": "Delivering instructional content at home and using classroom time for  activities",
+        "B": "Reversing traditional roles of student and teacher",
+        "C": "Increasing lecture-based learning time in the classroom",
+        "D": "Focusing solely on project-based assignments"
+      },
+      "correct_answer": "X"
+    },
+    {
       "id": "36",
       "text": "Which among the following key component represents differentiated instruction for gifted learners?",
       "options": {
@@ -22847,6 +23089,17 @@ const quizData = {
         "D": "Association of Psychological Analysts"
       },
       "correct_answer": "A"
+    },
+    {
+      "id": "57",
+      "text": "Which among the following is a technique used for collecting data in educational research?",
+      "options": {
+        "A": "Questionnaire",
+        "B": "Observation",
+        "C": "Rating Scale",
+        "D": "Inventory"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "58",
@@ -23578,14 +23831,25 @@ const quizData = {
     },
     {
       "id": "4",
-      "text": "The primary role of learner is to respond with external cues",
+      "text": "The primary role of learner is to respond with external cues 3.      The theory which emphasizes the role education in maintaining social order and 4.      In childhood Ramu belonged to a financially poor and illiterate family. He studied well",
       "options": {
         "A": "1, 2 & 3 only Functionalism Structural",
         "B": "1 & 3 only Realism Horizontal",
-        "C": "1, 2 & 4 only  3. stability:Conflict theory  4. and joined in Indian Administrative Service. Now Ramu is in a high socio-economic status level. This is an example for ---- Mobility .Vertical",
-        "D": "2 & 4 only  The theory which emphasizes the role education in maintaining social order andNone of these  In childhood Ramu belonged to a financially poor and illiterate family. He studied wellIntergenerational"
+        "C": "1, 2 & 4 only  stability:Conflict theory  and joined in Indian Administrative Service. Now Ramu is in a high socio-economic status level. This is an example for ---- Mobility .Vertical",
+        "D": "2 & 4 only None of these Intergenerational"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "5",
+      "text": "Wechsler Adult Intelligence test is:",
+      "options": {
+        "A": "Verbal performance test",
+        "B": "Verbal test only",
+        "C": "Projective test only",
+        "D": "Nonverbal performance test"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "6",
@@ -23853,11 +24117,11 @@ const quizData = {
     },
     {
       "id": "30",
-      "text": "D. Archana published an article in the year 2023 in a Journal of Education, page number 101-110. Volume of journal is 25(3) .Name of the article is Adolescence and digital use. Select the correct APA 7 style.",
+      "text": "D. Archana published an article in the year 2023 in a Journal of Education, page number 101-110. Volume of journal is 25(3) .Name of the article is Adolescence and digital use. Select the correct APA 7 style. 101-110. 110.(2023) 101-110.",
       "options": {
-        "A": "Archana, D. (2023). Adolescence and digital use. Journal of Education, 25(3),  101-110. 110.(2023)",
+        "A": "Archana, D. (2023). Adolescence and digital use. Journal of Education, 25(3),",
         "B": "D Archana,. Adolescence and digital use. Journal of Education, 25(3), 101-",
-        "C": "Archana, D. (2023). Journal of Education,25(3), 101-110 Adolescence and  digital use. 101-110.",
+        "C": "Archana, D. (2023). Journal of Education,25(3), 101-110 Adolescence and  digital use.",
         "D": "Adolescence and digital use ,Archana, D. (2023).. Journal of Education, 25(3),"
       },
       "correct_answer": "A"
@@ -24427,12 +24691,23 @@ const quizData = {
       "id": "82",
       "text": "Match List-I (Idioms) with List-II (Meanings) : List-I                     List-II a. Scrape the barrel       1. Prosperity and misfortune b. Weal and woe            2. Benefit from or capitalize on a period of advantage c. Bear away the palm      3. Use one\u2019s last and weakest resource d. Ride on a wave          4. Win a victory",
       "options": {
-        "A": "a-3, b-4, c-1, d-2 42",
-        "B": "a-2, b-4, c-3, d-1 40",
-        "C": "a-3, b-1, c-4, d-2  83 unanswered question in the test carry 1 mark, \u2212 mark and \u2212 mark respectively. A candidate scores 50 marks in this test. What is the maximum number of questions that the candidate could have answered wrong in the test?50",
-        "D": "a-3, b-4, c-2, d-1  A test consists of 120 questions. Each correct answer, each wrong answer and each45"
+        "A": "a-3, b-4, c-1, d-2",
+        "B": "a-2, b-4, c-3, d-1",
+        "C": "a-3, b-1, c-4, d-2",
+        "D": "a-3, b-4, c-2, d-1"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "83",
+      "text": "A test consists of 120 questions. Each correct answer, each wrong answer and each unanswered question in the test carry 1 mark, \u2212 mark and \u2212 mark respectively. A candidate scores 50 marks in this test. What is the maximum number of questions that the candidate could have answered wrong in the test?",
+      "options": {
+        "A": "42",
+        "B": "40",
+        "C": "50",
+        "D": "45"
+      },
+      "correct_answer": "D"
     },
     {
       "id": "84",
@@ -24807,6 +25082,17 @@ const quizData = {
         "D": "a-3, b-4, c-1, d-2"
       },
       "correct_answer": "C"
+    },
+    {
+      "id": "118",
+      "text": "State with the highest number of Universities in India:",
+      "options": {
+        "A": "West Bengal",
+        "B": "Rajasthan",
+        "C": "Tamil Nadu",
+        "D": "Karnataka"
+      },
+      "correct_answer": "X"
     },
     {
       "id": "119",

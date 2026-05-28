@@ -14,7 +14,8 @@ def extract_data(filename):
     current_options = {'A': '', 'B': '', 'C': '', 'D': ''}
     
     ans_key_pattern = re.compile(r'ANSWER KEYS?', re.IGNORECASE)
-    qn_pattern = re.compile(r'^(\d+)\.\s+(.*)')
+    qn_pattern = re.compile(r'^(\d+)([\.\)]?)\s*(.*)')
+
     
     # Matches options anywhere in the line, provided they have spaces before them or are at the start
     opt_pattern = re.compile(r'(?:^|\s+)([A-D])\)\s*(.*?)(?=(?:\s+[A-D]\))|$)')
@@ -46,7 +47,7 @@ def extract_data(filename):
         if "STATE ELIGIBILITY TEST" in clean_line and "Syllabus" not in clean_line:
             pass # We will handle session detection
             
-        if not clean_line:
+        if not clean_line or clean_line.isdigit():
             continue
 
         if "STATE ELIGIBILITY TEST" in clean_line and re.search(r'20[1-2][0-9]', clean_line):
@@ -89,22 +90,44 @@ def extract_data(filename):
             qn_match = qn_pattern.match(clean_line)
             if qn_match:
                 q_num = qn_match.group(1)
-                if q_num not in papers[current_session]['questions'] and (not current_q_num or int(q_num) > int(current_q_num)):
-                    save_current_q()
-                    current_q_num = q_num
-                    
-                    # The rest of the line might contain text and even options!
-                    remainder = qn_match.group(2)
-                    # Check if there are options on this same line
-                    opts_on_line = list(opt_pattern.finditer(remainder))
-                    if opts_on_line:
-                        # Extract the question text before the first option
-                        first_opt_start = opts_on_line[0].start()
-                        current_q_text = remainder[:first_opt_start].strip() + " "
-                        for m in opts_on_line:
-                            current_options[m.group(1)] += m.group(2).strip() + " "
+                sep = qn_match.group(2)
+                
+                # Check if it's a valid question number progression
+                is_valid_jump = False
+                if current_q_num:
+                    if sep == '':
+                        # If there's no dot/paren, it MUST be exactly the next question
+                        is_valid_jump = (int(q_num) == int(current_q_num) + 1)
                     else:
-                        current_q_text = remainder + " "
+                        is_valid_jump = (int(q_num) > int(current_q_num) and int(q_num) - int(current_q_num) <= 5)
+                else:
+                    is_valid_jump = True
+
+                if int(q_num) >= 1 and int(q_num) <= 120:
+                    if q_num not in papers[current_session]['questions'] and is_valid_jump:
+                        save_current_q()
+                        current_q_num = q_num
+                        
+                        # The rest of the line might contain text and even options!
+                        remainder = qn_match.group(3)
+                        # Check if there are options on this same line
+                        opts_on_line = list(opt_pattern.finditer(remainder))
+                        if opts_on_line:
+                            # Extract the question text before the first option
+                            first_opt_start = opts_on_line[0].start()
+                            current_q_text = remainder[:first_opt_start].strip() + " "
+                            for m in opts_on_line:
+                                current_options[m.group(1)] += m.group(2).strip() + " "
+                        else:
+                            current_q_text = remainder + " "
+                        continue
+                    else:
+                        # If we see a number that is less than or equal to current, it might be part of the question text
+                        if current_q_num:
+                            current_q_text += clean_line + " "
+                        continue
+                elif current_q_num:
+                    current_q_text += clean_line + " "
                     continue
 
             # If it's not a new question, it belongs to the current question or its options
@@ -190,6 +213,9 @@ def extract_data(filename):
                     if i < len(tokens) and not tokens[i].isdigit():
                         data['answers'][q_num] = tokens[i].upper()
                         i += 1
+                    else:
+                        # If we reached the next question or end without an answer, assign 'X' (Cancelled/Unknown)
+                        data['answers'][q_num] = 'X'
                 else:
                     i += 1
             del data['ans_tokens']
