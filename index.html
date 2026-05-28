@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SET Kerala Quiz - Learning Platform</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4A90E2">
+    <!-- Load JSON data -->
+    <script src="data.js"></script>
+</head>
+<body>
+    <header>
+        <div class="header-container">
+            <h1>SET Kerala Quiz</h1>
+            <div class="controls">
+                <label for="year-select">Select Paper:</label>
+                <select id="year-select">
+                    <!-- Populated via JS -->
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <div id="quiz-container" class="quiz-container">
+            <div id="progress-container">
+                <span id="question-count">Question 1 of N</span>
+                <div class="progress-bar">
+                    <div id="progress-fill"></div>
+                </div>
+            </div>
+
+            <div id="question-box" class="question-box">
+                <h2 id="question-text">Loading question...</h2>
+                <div id="options-container" class="options-container">
+                    <!-- Buttons populated via JS -->
+                </div>
+            </div>
+
+            <div id="feedback-box" class="feedback-box hidden">
+                <h3 id="feedback-title"></h3>
+                <p id="correct-answer-text"></p>
+            </div>
+
+            <div class="nav-buttons">
+                <button id="prev-btn" class="btn secondary" disabled>Previous</button>
+                <button id="next-btn" class="btn primary">Next</button>
+            </div>
+        </div>
+        
+        <div id="completion-screen" class="hidden">
+            <h2>Paper Completed!</h2>
+            <p>You have gone through all questions in this paper.</p>
+            <button id="restart-btn" class="btn primary">Restart Paper</button>
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('sw.js')
+                .then(registration => {
+                    console.log('ServiceWorker registration successful');
+                })
+                .catch(err => {
+                    console.log('ServiceWorker registration failed: ', err);
+                });
+            });
+        }
+    </script>
+</body>
+</html>
